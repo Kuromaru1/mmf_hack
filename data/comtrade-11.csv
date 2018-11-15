@@ -1,0 +1,953 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+HS,2015,201503,March 2015,6,1,1,Imports,724,Spain,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,69500,,109475,,,0
+HS,2015,201506,June 2015,6,1,1,Imports,56,Belgium,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,35893,,176609,,,0
+HS,2015,201503,March 2015,6,1,1,Imports,579,Norway,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,3595,,21214,,,0
+HS,2015,201503,March 2015,6,1,2,Exports,724,Spain,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,12900,,23605,,,0
+HS,2015,201501,January 2015,6,1,2,Exports,100,Bulgaria,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,88900,,31470,,,0
+HS,2015,201501,January 2015,6,1,1,Imports,344,"China, Hong Kong SAR",,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,3513342,,5755561,,,0
+HS,2015,201511,November 2015,6,1,1,Imports,818,Egypt,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,,,6477,,,0
+HS,2015,201509,September 2015,6,1,1,Imports,344,"China, Hong Kong SAR",,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,3105789,,4600791,,,0
+HS,2015,201502,February 2015,6,1,1,Imports,579,Norway,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,185,,1493,,,0
+HS,2015,201505,May 2015,6,1,1,Imports,818,Egypt,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,,,131353,,,0
+HS,2015,201511,November 2015,6,1,2,Exports,56,Belgium,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,2318800,,3582288,,,0
+HS,2015,201504,April 2015,6,1,1,Imports,231,Ethiopia,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,46600,,78496,,,0
+HS,2015,201502,February 2015,6,1,2,Exports,398,Kazakhstan,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,1200000,,934939,,,0
+HS,2015,201501,January 2015,6,1,2,Exports,410,Rep. of Korea,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,48722300,,63281297,,,0
+HS,2015,201511,November 2015,6,1,1,Imports,690,Seychelles,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,,,8720,,,0
+HS,2015,201504,April 2015,6,1,1,Imports,554,New Zealand,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,7770,,23437,,,0
+HS,2015,201505,May 2015,6,1,2,Exports,344,"China, Hong Kong SAR",,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,42522655,,64294649,,,0
+HS,2015,201501,January 2015,6,1,2,Exports,56,Belgium,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,3303310,,5742090,,,0
+HS,2015,201510,October 2015,6,1,2,Exports,818,Egypt,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,,,49845,,,0
+HS,2015,201509,September 2015,6,1,2,Exports,344,"China, Hong Kong SAR",,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,38905015,,56177311,,,0
+HS,2015,201511,November 2015,6,1,2,Exports,410,Rep. of Korea,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,49853100,,59818903,,,0
+HS,2015,201511,November 2015,6,1,1,Imports,724,Spain,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,16660,,27623,,,0
+HS,2015,201511,November 2015,6,1,1,Imports,56,Belgium,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,2500,,3202,,,0
+HS,2015,201511,November 2015,6,1,1,Imports,410,Rep. of Korea,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,107223,,350330,,,0
+HS,2015,201504,April 2015,6,1,2,Exports,818,Egypt,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,,,50567,,,0
+HS,2015,201509,September 2015,6,1,1,Imports,97,EU-27,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,,,510432,,,0
+HS,2015,201505,May 2015,6,1,1,Imports,97,EU-27,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,265700,,773922,,,0
+HS,2015,201509,September 2015,6,1,2,Exports,97,EU-27,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,4807100,,9483024,,,0
+HS,2015,201503,March 2015,6,1,2,Exports,40,Austria,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,337100,,521156,,,0
+HS,2015,201510,October 2015,6,1,2,Exports,792,Turkey,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,154975,,159519,,,0
+HS,2015,201502,February 2015,6,1,1,Imports,643,Russian Federation,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,162538,,275245,,,0
+HS,2015,201510,October 2015,6,1,1,Imports,499,Montenegro,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,20000,,21361,,,0
+HS,2015,201512,December 2015,6,1,1,Imports,484,Mexico,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,296126,,569706,,,0
+HS,2015,201509,September 2015,6,1,2,Exports,381,Italy,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,40356,,86075,,,0
+HS,2015,201507,July 2015,6,1,2,Exports,97,EU-27,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,6636100,,11214458,,,0
+HS,2015,201507,July 2015,6,1,2,Exports,40,Austria,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,214300,,381902,,,0
+HS,2015,201504,April 2015,6,1,2,Exports,40,Austria,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,326100,,494368,,,0
+HS,2015,201506,June 2015,6,1,2,Exports,97,EU-27,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,7980712,,13566312,,,0
+HS,2015,201505,May 2015,6,1,2,Exports,792,Turkey,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,159227,,136591,,,0
+HS,2015,201511,November 2015,6,1,2,Exports,792,Turkey,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,80100,,88952,,,0
+HS,2015,201511,November 2015,6,1,1,Imports,97,EU-27,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,104063,,267824,,,0
+HS,2015,201503,March 2015,6,1,1,Imports,508,Mozambique,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,31170,,21207,,,0
+HS,2015,201505,May 2015,6,1,1,Imports,643,Russian Federation,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,44000,,54846,,,0
+HS,2015,201511,November 2015,6,1,1,Imports,381,Italy,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,1532,,16328,,,0
+HS,2015,201504,April 2015,6,1,1,Imports,40,Austria,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,,,798,,,0
+HS,2015,201512,December 2015,6,1,2,Exports,643,Russian Federation,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,48000,,10560,,,0
+HS,2015,201512,December 2015,6,1,2,Exports,381,Italy,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,318358,,524274,,,0
+HS,2015,201505,May 2015,6,1,2,Exports,643,Russian Federation,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,49400,,10868,,,0
+HS,2015,201511,November 2015,6,1,1,Imports,208,Denmark,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,207,,2166,,,0
+HS,2015,201501,January 2015,6,1,1,Imports,643,Russian Federation,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,150710,,277746,,,0
+HS,2015,201509,September 2015,6,1,1,Imports,703,Slovakia,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,57576,,118406,,,0
+HS,2015,201510,October 2015,6,1,2,Exports,251,France,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,391592,,620843,,,0
+HS,2015,201502,February 2015,6,1,1,Imports,442,Luxembourg,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,160,,415,,,0
+HS,2015,201504,April 2015,6,1,1,Imports,251,France,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,923,,4428,,,0
+HS,2015,201504,April 2015,6,1,2,Exports,251,France,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,312732,,471925,,,0
+HS,2015,201511,November 2015,6,1,2,Exports,757,Switzerland,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,2501,,14599,,,0
+HS,2015,201501,January 2015,6,1,2,Exports,372,Ireland,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,96,,232,,,0
+HS,2015,201507,July 2015,6,1,2,Exports,703,Slovakia,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,21000,,35613,,,0
+HS,2015,201510,October 2015,6,1,2,Exports,757,Switzerland,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,5577,,10992,,,0
+HS,2015,201502,February 2015,6,1,1,Imports,757,Switzerland,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,2016,,9190,,,0
+HS,2015,201505,May 2015,6,1,2,Exports,251,France,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,343225,,547788,,,0
+HS,2015,201501,January 2015,6,1,1,Imports,372,Ireland,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,155,,201,,,0
+HS,2015,201508,August 2015,6,1,1,Imports,703,Slovakia,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,30306,,67842,,,0
+HS,2015,201511,November 2015,6,1,1,Imports,251,France,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,989,,1369,,,0
+HS,2015,201505,May 2015,6,1,1,Imports,703,Slovakia,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,75689,,127082,,,0
+HS,2015,201510,October 2015,6,1,1,Imports,372,Ireland,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,1131,,5334,,,0
+HS,2015,201502,February 2015,6,1,1,Imports,251,France,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,,,38957,,,0
+HS,2015,201512,December 2015,6,1,1,Imports,616,Poland,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,500051,,651595,,,0
+HS,2015,201502,February 2015,6,1,2,Exports,251,France,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,338932,,565350,,,0
+HS,2015,201505,May 2015,6,1,1,Imports,251,France,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,1004,,9192,,,0
+HS,2015,201505,May 2015,6,1,2,Exports,703,Slovakia,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,53000,,84087,,,0
+HS,2015,201506,June 2015,6,1,2,Exports,703,Slovakia,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,26100,,43424,,,0
+HS,2015,201511,November 2015,6,1,1,Imports,372,Ireland,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,242,,1785,,,0
+HS,2015,201504,April 2015,6,1,2,Exports,703,Slovakia,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,42075,,57879,,,0
+HS,2015,201509,September 2015,6,1,1,Imports,442,Luxembourg,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,18000,,38524,,,0
+HS,2015,201505,May 2015,6,1,2,Exports,410,Rep. of Korea,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,44066200,,64262382,,,0
+HS,2015,201510,October 2015,6,1,1,Imports,410,Rep. of Korea,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,202581,,510771,,,0
+HS,2015,201502,February 2015,6,1,1,Imports,233,Estonia,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,2412,,3049,,,0
+HS,2015,201507,July 2015,6,1,1,Imports,398,Kazakhstan,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,2090,,2790,,,0
+HS,2015,201512,December 2015,6,1,1,Imports,231,Ethiopia,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,21980,,49658,,,0
+HS,2015,201501,January 2015,6,1,1,Imports,398,Kazakhstan,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,40,,67,,,0
+HS,2015,201510,October 2015,6,1,1,Imports,579,Norway,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,1540,,27675,,,0
+HS,2015,201501,January 2015,6,1,1,Imports,818,Egypt,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,,,232881,,,0
+HS,2015,201511,November 2015,6,1,2,Exports,724,Spain,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,171878,,234618,,,0
+HS,2015,201512,December 2015,6,1,2,Exports,724,Spain,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,85800,,112871,,,0
+HS,2015,201503,March 2015,6,1,1,Imports,818,Egypt,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,,,231625,,,0
+HS,2015,201505,May 2015,6,1,1,Imports,410,Rep. of Korea,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,334090,,609244,,,0
+HS,2015,201502,February 2015,6,1,1,Imports,554,New Zealand,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,5460,,21976,,,0
+HS,2015,201509,September 2015,6,1,1,Imports,724,Spain,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,65700,,83709,,,0
+HS,2015,201503,March 2015,6,1,2,Exports,410,Rep. of Korea,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,45882600,,58628175,,,0
+HS,2015,201509,September 2015,6,1,2,Exports,724,Spain,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,191500,,323344,,,0
+HS,2015,201508,August 2015,6,1,2,Exports,724,Spain,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,117300,,202763,,,0
+HS,2015,201502,February 2015,6,1,2,Exports,56,Belgium,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,2076162,,3193070,,,0
+HS,2015,201506,June 2015,6,1,2,Exports,398,Kazakhstan,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,400000,,480000,,,0
+HS,2015,201501,January 2015,6,1,2,Exports,344,"China, Hong Kong SAR",,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,43300218,,66191948,,,0
+HS,2015,201512,December 2015,6,1,1,Imports,56,Belgium,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,200,,938,,,0
+HS,2015,201512,December 2015,6,1,1,Imports,724,Spain,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,20800,,38167,,,0
+HS,2015,201512,December 2015,6,1,2,Exports,56,Belgium,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,3258641,,5244891,,,0
+HS,2015,201510,October 2015,6,1,1,Imports,398,Kazakhstan,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,102,,92,,,0
+HS,2015,201508,August 2015,6,1,1,Imports,344,"China, Hong Kong SAR",,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,3038415,,4591333,,,0
+HS,2015,201504,April 2015,6,1,2,Exports,276,Germany,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,966835,,1766511,,,0
+HS,2015,201504,April 2015,6,1,1,Imports,484,Mexico,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,127896,,261729,,,0
+HS,2015,201504,April 2015,6,1,1,Imports,276,Germany,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,2667,,4798,,,0
+HS,2015,201504,April 2015,6,1,2,Exports,484,Mexico,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,22037,,30743,,,0
+HS,2015,201507,July 2015,6,1,2,Exports,642,Romania,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,400,,583,,,0
+HS,2015,201501,January 2015,6,1,2,Exports,381,Italy,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,235596,,454723,,,0
+HS,2015,201503,March 2015,6,1,1,Imports,484,Mexico,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,82000,,145819,,,0
+HS,2015,201501,January 2015,6,1,1,Imports,381,Italy,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,3060,,15179,,,0
+HS,2015,201512,December 2015,6,1,2,Exports,203,Czech Rep.,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,13522,,18042,,,0
+HS,2015,201507,July 2015,6,1,1,Imports,484,Mexico,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,83697,,177968,,,0
+HS,2015,201512,December 2015,6,1,1,Imports,276,Germany,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,48119,,106390,,,0
+HS,2015,201511,November 2015,6,1,1,Imports,642,Romania,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,2450,,5327,,,0
+HS,2015,201509,September 2015,6,1,2,Exports,203,Czech Rep.,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,25231,,10748,,,0
+HS,2015,201508,August 2015,6,1,2,Exports,381,Italy,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,160920,,296773,,,0
+HS,2015,201509,September 2015,6,1,1,Imports,705,Slovenia,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,68,,152,,,0
+HS,2015,201501,January 2015,6,1,2,Exports,484,Mexico,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,1851,,6157,,,0
+HS,2015,201503,March 2015,6,1,1,Imports,705,Slovenia,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,15925,,16724,,,0
+HS,2015,201501,January 2015,6,1,2,Exports,642,Romania,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,2374,,594,,,0
+HS,2015,201501,January 2015,6,1,1,Imports,484,Mexico,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,76547,,185523,,,0
+HS,2015,201506,June 2015,6,1,1,Imports,484,Mexico,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,141981,,307881,,,0
+HS,2015,201504,April 2015,6,1,2,Exports,203,Czech Rep.,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,400,,982,,,0
+HS,2015,201510,October 2015,6,1,1,Imports,705,Slovenia,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,52299,,65576,,,0
+HS,2015,201505,May 2015,6,1,2,Exports,276,Germany,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,1182120,,2215920,,,0
+HS,2015,201508,August 2015,6,1,1,Imports,642,Romania,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,21800,,28917,,,0
+HS,2015,201507,July 2015,6,1,1,Imports,705,Slovenia,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,19,,85,,,0
+HS,2015,201509,September 2015,6,1,1,Imports,231,Ethiopia,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,87000,,194203,,,0
+HS,2015,201505,May 2015,6,1,1,Imports,233,Estonia,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,25,,10,,,0
+HS,2015,201507,July 2015,6,1,2,Exports,724,Spain,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,182300,,269226,,,0
+HS,2015,201510,October 2015,6,1,1,Imports,724,Spain,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,32000,,57197,,,0
+HS,2015,201507,July 2015,6,1,1,Imports,724,Spain,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,32800,,57399,,,0
+HS,2015,201509,September 2015,6,1,1,Imports,233,Estonia,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,4,,95,,,0
+HS,2015,201507,July 2015,6,1,2,Exports,56,Belgium,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,4049554,,6264121,,,0
+HS,2015,201506,June 2015,6,1,1,Imports,724,Spain,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,32000,,57893,,,0
+HS,2015,201501,January 2015,6,1,1,Imports,56,Belgium,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,8,,314,,,0
+HS,2015,201506,June 2015,6,1,1,Imports,398,Kazakhstan,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,3240,,3524,,,0
+HS,2015,201506,June 2015,6,1,2,Exports,724,Spain,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,158400,,233365,,,0
+HS,2015,201507,July 2015,6,1,1,Imports,579,Norway,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,10,,978,,,0
+HS,2015,201510,October 2015,6,1,1,Imports,818,Egypt,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,,,189052,,,0
+HS,2015,201512,December 2015,6,1,1,Imports,410,Rep. of Korea,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,160964,,429366,,,0
+HS,2015,201509,September 2015,6,1,1,Imports,818,Egypt,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,,,169117,,,0
+HS,2015,201508,August 2015,6,1,2,Exports,344,"China, Hong Kong SAR",,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,43059504,,63744898,,,0
+HS,2015,201510,October 2015,6,1,2,Exports,724,Spain,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,329300,,527270,,,0
+HS,2015,201501,January 2015,6,1,1,Imports,410,Rep. of Korea,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,31056,,101954,,,0
+HS,2015,201503,March 2015,6,1,2,Exports,344,"China, Hong Kong SAR",,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,45055441,,64558358,,,0
+HS,2015,201502,February 2015,6,1,2,Exports,724,Spain,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,90800,,141183,,,0
+HS,2015,201504,April 2015,6,1,2,Exports,410,Rep. of Korea,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,47901800,,66773805,,,0
+HS,2015,201506,June 2015,6,1,2,Exports,100,Bulgaria,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,42200,,14442,,,0
+HS,2015,201509,September 2015,6,1,1,Imports,398,Kazakhstan,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,1000,,1600,,,0
+HS,2015,201512,December 2015,6,1,1,Imports,344,"China, Hong Kong SAR",,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,4755357,,5685763,,,0
+HS,2015,201508,August 2015,6,1,2,Exports,56,Belgium,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,3645506,,6130691,,,0
+HS,2015,201508,August 2015,6,1,1,Imports,826,United Kingdom,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,19029,,145391,,,0
+HS,2015,201503,March 2015,6,1,2,Exports,702,Singapore,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,31974460,,38223582,,,0
+HS,2015,201503,March 2015,6,1,2,Exports,826,United Kingdom,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,110975,,171443,,,0
+HS,2015,201506,June 2015,6,1,2,Exports,702,Singapore,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,30471650,,41030945,,,0
+HS,2015,201510,October 2015,6,1,2,Exports,826,United Kingdom,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,47869,,165124,,,0
+HS,2015,201507,July 2015,6,1,2,Exports,752,Sweden,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,1000,,586,,,0
+HS,2015,201502,February 2015,6,1,2,Exports,752,Sweden,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,,,25473,,,0
+HS,2015,201501,January 2015,6,1,2,Exports,752,Sweden,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,,,1234,,,0
+HS,2015,201503,March 2015,6,1,1,Imports,702,Singapore,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,16740,,110899,,,0
+HS,2015,201505,May 2015,6,1,1,Imports,752,Sweden,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,24000,,49248,,,0
+HS,2015,201508,August 2015,6,1,2,Exports,826,United Kingdom,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,9755,,23880,,,0
+HS,2015,201504,April 2015,6,1,1,Imports,608,Philippines,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,208428,,314934,,,0
+HS,2015,201510,October 2015,6,1,1,Imports,152,Chile,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,20000,,48671,,,0
+HS,2015,201508,August 2015,6,1,1,Imports,152,Chile,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,46,,66,,,0
+HS,2015,201512,December 2015,6,1,1,Imports,352,Iceland,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,5,,661,,,0
+HS,2015,201505,May 2015,6,1,1,Imports,826,United Kingdom,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,46298,,209136,,,0
+HS,2015,201505,May 2015,6,1,2,Exports,826,United Kingdom,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,51480,,20813,,,0
+HS,2015,201501,January 2015,6,1,1,Imports,826,United Kingdom,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,41402,,105647,,,0
+HS,2015,201506,June 2015,6,1,2,Exports,752,Sweden,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,,,17776,,,0
+HS,2015,201507,July 2015,6,1,2,Exports,702,Singapore,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,32722530,,42402742,,,0
+HS,2015,201512,December 2015,6,1,1,Imports,124,Canada,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,37939,,96456,,,0
+HS,2015,201502,February 2015,6,1,1,Imports,826,United Kingdom,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,23774,,88253,,,0
+HS,2015,201504,April 2015,6,1,2,Exports,702,Singapore,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,29367920,,38341688,,,0
+HS,2015,201501,January 2015,6,1,1,Imports,752,Sweden,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,,,5058,,,0
+HS,2015,201501,January 2015,6,1,2,Exports,826,United Kingdom,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,85927,,184040,,,0
+HS,2015,201501,January 2015,6,1,1,Imports,894,Zambia,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,104490,,129426,,,0
+HS,2015,201509,September 2015,6,1,2,Exports,642,Romania,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,100,,303,,,0
+HS,2015,201511,November 2015,6,1,2,Exports,276,Germany,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,1095090,,1947807,,,0
+HS,2015,201510,October 2015,6,1,1,Imports,203,Czech Rep.,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,46200,,44425,,,0
+HS,2015,201503,March 2015,6,1,2,Exports,276,Germany,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,1526342,,2736646,,,0
+HS,2015,201503,March 2015,6,1,1,Imports,887,Yemen,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,36000,,44287,,,0
+HS,2015,201503,March 2015,6,1,2,Exports,381,Italy,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,571471,,844152,,,0
+HS,2015,201507,July 2015,6,1,2,Exports,484,Mexico,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,10170,,26687,,,0
+HS,2015,201506,June 2015,6,1,1,Imports,276,Germany,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,1347,,9994,,,0
+HS,2015,201503,March 2015,6,1,2,Exports,203,Czech Rep.,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,2240,,6063,,,0
+HS,2015,201508,August 2015,6,1,2,Exports,276,Germany,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,1140928,,2118179,,,0
+HS,2015,201508,August 2015,6,1,1,Imports,381,Italy,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,1300,,3275,,,0
+HS,2015,201506,June 2015,6,1,2,Exports,484,Mexico,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,12804,,50889,,,0
+HS,2015,201508,August 2015,6,1,1,Imports,484,Mexico,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,196225,,263342,,,0
+HS,2015,201505,May 2015,6,1,1,Imports,276,Germany,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,828,,5403,,,0
+HS,2015,201502,February 2015,6,1,1,Imports,887,Yemen,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,18000,,21917,,,0
+HS,2015,201505,May 2015,6,1,1,Imports,203,Czech Rep.,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,15,,480,,,0
+HS,2015,201511,November 2015,6,1,1,Imports,276,Germany,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,1552,,17693,,,0
+HS,2015,201509,September 2015,6,1,2,Exports,276,Germany,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,770800,,1565632,,,0
+HS,2015,201506,June 2015,6,1,2,Exports,203,Czech Rep.,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,40030,,84461,,,0
+HS,2015,201510,October 2015,6,1,2,Exports,276,Germany,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,641500,,1157733,,,0
+HS,2015,201507,July 2015,6,1,1,Imports,276,Germany,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,4331,,5317,,,0
+HS,2015,201503,March 2015,6,1,1,Imports,276,Germany,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,52911,,83346,,,0
+HS,2015,201509,September 2015,6,1,1,Imports,276,Germany,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,1700,,7271,,,0
+HS,2015,201510,October 2015,6,1,2,Exports,203,Czech Rep.,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,34271,,45785,,,0
+HS,2015,201509,September 2015,6,1,1,Imports,643,Russian Federation,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,130300,,181513,,,0
+HS,2015,201509,September 2015,6,1,1,Imports,208,Denmark,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,18089,,15945,,,0
+HS,2015,201507,July 2015,6,1,1,Imports,792,Turkey,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,238650,,396959,,,0
+HS,2015,201508,August 2015,6,1,2,Exports,792,Turkey,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,400,,903,,,0
+HS,2015,201505,May 2015,6,1,2,Exports,97,EU-27,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,5222000,,9472460,,,0
+HS,2015,201509,September 2015,6,1,1,Imports,484,Mexico,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,17178351,,364232,,,0
+HS,2015,201504,April 2015,6,1,1,Imports,792,Turkey,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,12000,,27754,,,0
+HS,2015,201510,October 2015,6,1,1,Imports,484,Mexico,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,176626,,350274,,,0
+HS,2015,201506,June 2015,6,1,1,Imports,643,Russian Federation,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,93000,,123642,,,0
+HS,2015,201510,October 2015,6,1,2,Exports,484,Mexico,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,6813,,13207,,,0
+HS,2015,201502,February 2015,6,1,1,Imports,792,Turkey,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,49000,,72550,,,0
+HS,2015,201508,August 2015,6,1,1,Imports,643,Russian Federation,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,116049,,168516,,,0
+HS,2015,201503,March 2015,6,1,2,Exports,792,Turkey,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,148759,,156165,,,0
+HS,2015,201509,September 2015,6,1,2,Exports,643,Russian Federation,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,11655,,23983,,,0
+HS,2015,201510,October 2015,6,1,2,Exports,97,EU-27,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,6116400,,10696338,,,0
+HS,2015,201505,May 2015,6,1,1,Imports,646,Rwanda,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,,,19432,,,0
+HS,2015,201506,June 2015,6,1,2,Exports,792,Turkey,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,179160,,181388,,,0
+HS,2015,201512,December 2015,6,1,1,Imports,381,Italy,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,5558,,24155,,,0
+HS,2015,201508,August 2015,6,1,2,Exports,643,Russian Federation,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,26525,,7289,,,0
+HS,2015,201511,November 2015,6,1,2,Exports,381,Italy,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,121100,,207425,,,0
+HS,2015,201511,November 2015,6,1,1,Imports,498,Rep. of Moldova,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,150,,163,,,0
+HS,2015,201507,July 2015,6,1,1,Imports,643,Russian Federation,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,101511,,160484,,,0
+HS,2015,201501,January 2015,6,1,2,Exports,40,Austria,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,269900,,447350,,,0
+HS,2015,201508,August 2015,6,1,1,Imports,792,Turkey,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,110001,,193115,,,0
+HS,2015,201511,November 2015,6,1,1,Imports,792,Turkey,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,23000,,52689,,,0
+HS,2015,201505,May 2015,6,1,1,Imports,842,United States of America,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,,,168359,,,0
+HS,2015,201511,November 2015,6,1,1,Imports,458,Malaysia,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,236405,,458985,,,0
+HS,2015,201512,December 2015,6,1,1,Imports,376,Israel,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,,,1000,,,0
+HS,2015,201510,October 2015,6,1,1,Imports,76,Brazil,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,124300,,180571,,,0
+HS,2015,201507,July 2015,6,1,2,Exports,458,Malaysia,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,4398582,,4612027,,,0
+HS,2015,201509,September 2015,6,1,1,Imports,76,Brazil,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,497025,,734226,,,0
+HS,2015,201511,November 2015,6,1,1,Imports,620,Portugal,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,7,,1517,,,0
+HS,2015,201511,November 2015,6,1,2,Exports,842,United States of America,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,,,3295096,,,0
+HS,2015,201506,June 2015,6,1,2,Exports,376,Israel,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,,,211000,,,0
+HS,2015,201509,September 2015,6,1,1,Imports,458,Malaysia,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,377252,,648818,,,0
+HS,2015,201506,June 2015,6,1,2,Exports,620,Portugal,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,460,,289,,,0
+HS,2015,201505,May 2015,6,1,2,Exports,458,Malaysia,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,5595023,,4796744,,,0
+HS,2015,201508,August 2015,6,1,2,Exports,620,Portugal,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,2300,,6866,,,0
+HS,2015,201501,January 2015,6,1,2,Exports,842,United States of America,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,,,5482712,,,0
+HS,2015,201503,March 2015,6,1,1,Imports,620,Portugal,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,67,,1292,,,0
+HS,2015,201503,March 2015,6,1,2,Exports,376,Israel,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,,,493000,,,0
+HS,2015,201506,June 2015,6,1,2,Exports,842,United States of America,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,,,6780951,,,0
+HS,2015,201511,November 2015,6,1,2,Exports,376,Israel,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,,,621000,,,0
+HS,2015,201510,October 2015,6,1,2,Exports,458,Malaysia,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,18010758,,19202773,,,0
+HS,2015,201508,August 2015,6,1,1,Imports,842,United States of America,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,,,226559,,,0
+HS,2015,201501,January 2015,6,1,2,Exports,458,Malaysia,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,6035675,,7034894,,,0
+HS,2015,201511,November 2015,6,1,2,Exports,458,Malaysia,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,12497887,,12895017,,,0
+HS,2015,201512,December 2015,6,1,2,Exports,842,United States of America,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,,,2957469,,,0
+HS,2015,201502,February 2015,6,1,2,Exports,458,Malaysia,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,4730391,,5733672,,,0
+HS,2015,201506,June 2015,6,1,2,Exports,76,Brazil,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,5472500,,6602172,,,0
+HS,2015,201501,January 2015,6,1,2,Exports,710,South Africa,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,4108500,,4471753,,,0
+HS,2015,201508,August 2015,6,1,1,Imports,710,South Africa,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,60900,,42560,,,0
+HS,2015,201503,March 2015,6,1,1,Imports,686,Senegal,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,17900,,36610,,,0
+HS,2015,201506,June 2015,6,1,1,Imports,710,South Africa,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,21900,,11897,,,0
+HS,2015,201507,July 2015,6,1,1,Imports,710,South Africa,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,24400,,4007,,,0
+HS,2015,201505,May 2015,6,1,2,Exports,36,Australia,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,48750,,62587,,,0
+HS,2015,201507,July 2015,6,1,1,Imports,392,Japan,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,135712,,280834,,,0
+HS,2015,201503,March 2015,6,1,1,Imports,392,Japan,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,222347,,445812,,,0
+HS,2015,201502,February 2015,6,1,1,Imports,36,Australia,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,2000,,6295,,,0
+HS,2015,201502,February 2015,6,1,2,Exports,710,South Africa,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,6954750,,6735219,,,0
+HS,2015,201508,August 2015,6,1,2,Exports,36,Australia,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,117000,,144809,,,0
+HS,2015,201506,June 2015,6,1,1,Imports,36,Australia,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,12820,,31950,,,0
+HS,2015,201501,January 2015,6,1,2,Exports,36,Australia,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,25000,,35345,,,0
+HS,2015,201508,August 2015,6,1,2,Exports,32,Argentina,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,23025,,67431,,,0
+HS,2015,201510,October 2015,6,1,2,Exports,36,Australia,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,80000,,88993,,,0
+HS,2015,201507,July 2015,6,1,2,Exports,36,Australia,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,319000,,1049003,,,0
+HS,2015,201505,May 2015,6,1,1,Imports,710,South Africa,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,47389,,16188,,,0
+HS,2015,201501,January 2015,6,1,1,Imports,31,Azerbaijan,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,29000,,18995,,,0
+HS,2015,201503,March 2015,6,1,1,Imports,36,Australia,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,0,,942,,,0
+HS,2015,201510,October 2015,6,1,1,Imports,710,South Africa,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,37100,,88617,,,0
+HS,2015,201508,August 2015,6,1,1,Imports,32,Argentina,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,400,,2663,,,0
+HS,2015,201509,September 2015,6,1,2,Exports,528,Netherlands,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,734400,,2289948,,,0
+HS,2015,201503,March 2015,6,1,1,Imports,710,South Africa,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,83295,,36504,,,0
+HS,2015,201501,January 2015,6,1,1,Imports,392,Japan,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,355000,,700103,,,0
+HS,2015,201509,September 2015,6,1,2,Exports,36,Australia,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,567500,,576114,,,0
+HS,2015,201502,February 2015,6,1,1,Imports,842,United States of America,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,,,160405,,,0
+HS,2015,201507,July 2015,6,1,2,Exports,842,United States of America,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,,,5084596,,,0
+HS,2015,201502,February 2015,6,1,1,Imports,76,Brazil,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,112625,,218220,,,0
+HS,2015,201511,November 2015,6,1,2,Exports,76,Brazil,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,300,,750,,,0
+HS,2015,201510,October 2015,6,1,1,Imports,458,Malaysia,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,424198,,1114372,,,0
+HS,2015,201508,August 2015,6,1,2,Exports,458,Malaysia,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,6077708,,6384967,,,0
+HS,2015,201510,October 2015,6,1,2,Exports,376,Israel,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,,,442000,,,0
+HS,2015,201502,February 2015,6,1,2,Exports,376,Israel,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,,,241000,,,0
+HS,2015,201509,September 2015,6,1,2,Exports,842,United States of America,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,,,4287564,,,0
+HS,2015,201512,December 2015,6,1,1,Imports,620,Portugal,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,6,,1893,,,0
+HS,2015,201505,May 2015,6,1,1,Imports,76,Brazil,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,81780,,131292,,,0
+HS,2015,201503,March 2015,6,1,1,Imports,191,Croatia,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,17647,,41988,,,0
+HS,2015,201508,August 2015,6,1,2,Exports,376,Israel,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,,,137000,,,0
+HS,2015,201501,January 2015,6,1,2,Exports,764,Thailand,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,14780197,,17982791,,,0
+HS,2015,201501,January 2015,6,1,2,Exports,376,Israel,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,,,419000,,,0
+HS,2015,201504,April 2015,6,1,2,Exports,620,Portugal,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,50,,81,,,0
+HS,2015,201512,December 2015,6,1,1,Imports,76,Brazil,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,388325,,538031,,,0
+HS,2015,201506,June 2015,6,1,1,Imports,458,Malaysia,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,235272,,503833,,,0
+HS,2015,201510,October 2015,6,1,2,Exports,842,United States of America,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,,,6463684,,,0
+HS,2015,201502,February 2015,6,1,2,Exports,764,Thailand,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,17096479,,18949021,,,0
+HS,2015,201507,July 2015,6,1,1,Imports,76,Brazil,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,273525,,461507,,,0
+HS,2015,201505,May 2015,6,1,1,Imports,458,Malaysia,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,280525,,517092,,,0
+HS,2015,201509,September 2015,6,1,2,Exports,620,Portugal,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,25150,,77767,,,0
+HS,2015,201501,January 2015,6,1,1,Imports,764,Thailand,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,598801,,1260903,,,0
+HS,2015,201510,October 2015,6,1,2,Exports,76,Brazil,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,742500,,679395,,,0
+HS,2015,201506,June 2015,6,1,2,Exports,710,South Africa,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,3118500,,3724350,,,0
+HS,2015,201509,September 2015,6,1,1,Imports,710,South Africa,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,39452,,51666,,,0
+HS,2015,201511,November 2015,6,1,1,Imports,528,Netherlands,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,497,,3603,,,0
+HS,2015,201501,January 2015,6,1,1,Imports,710,South Africa,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,112084,,84975,,,0
+HS,2015,201504,April 2015,6,1,1,Imports,12,Algeria,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,1000,,2049,,,0
+HS,2015,201504,April 2015,6,1,1,Imports,32,Argentina,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,28000,,38080,,,0
+HS,2015,201507,July 2015,6,1,2,Exports,686,Senegal,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,28000,,33740,,,0
+HS,2015,201503,March 2015,6,1,1,Imports,12,Algeria,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,2850,,8382,,,0
+HS,2015,201505,May 2015,6,1,1,Imports,528,Netherlands,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,33300,,109460,,,0
+HS,2015,201512,December 2015,6,1,1,Imports,97,EU-27,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,,,1141802,,,0
+HS,2015,201511,November 2015,6,1,2,Exports,392,Japan,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,6930930,,7823779,,,0
+HS,2015,201509,September 2015,6,1,2,Exports,710,South Africa,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,1287000,,1281030,,,0
+HS,2015,201507,July 2015,6,1,1,Imports,51,Armenia,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,8338,,9381,,,0
+HS,2015,201506,June 2015,6,1,1,Imports,320,Guatemala,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,32204,,50746,,,0
+HS,2015,201508,August 2015,6,1,1,Imports,392,Japan,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,268900,,468236,,,0
+HS,2015,201504,April 2015,6,1,1,Imports,528,Netherlands,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,2700,,13754,,,0
+HS,2015,201506,June 2015,6,1,1,Imports,218,Ecuador,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,18048,,13334,,,0
+HS,2015,201508,August 2015,6,1,2,Exports,392,Japan,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,7053310,,8859705,,,0
+HS,2015,201502,February 2015,6,1,2,Exports,392,Japan,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,9083290,,10535002,,,0
+HS,2015,201512,December 2015,6,1,1,Imports,528,Netherlands,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,15200,,46423,,,0
+HS,2015,201505,May 2015,6,1,1,Imports,36,Australia,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,36144,,41206,,,0
+HS,2015,201510,October 2015,6,1,1,Imports,392,Japan,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,221150,,397427,,,0
+HS,2015,201510,October 2015,6,1,1,Imports,36,Australia,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,7000,,16541,,,0
+HS,2015,201501,January 2015,6,1,2,Exports,528,Netherlands,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,1162400,,2520676,,,0
+HS,2015,201504,April 2015,6,1,1,Imports,392,Japan,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,270776,,489252,,,0
+HS,2015,201501,January 2015,6,1,2,Exports,246,Finland,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,13892,,70911,,,0
+HS,2015,201512,December 2015,6,1,2,Exports,246,Finland,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,9148,,31922,,,0
+HS,2015,201508,August 2015,6,1,2,Exports,699,India,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,17562350,,20032884,,,0
+HS,2015,201503,March 2015,6,1,1,Imports,124,Canada,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,36410,,65741,,,0
+HS,2015,201508,August 2015,6,1,1,Imports,604,Peru,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,80000,,110775,,,0
+HS,2015,201506,June 2015,6,1,1,Imports,68,Bolivia,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,3,,43,,,0
+HS,2015,201509,September 2015,6,1,1,Imports,124,Canada,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,31477,,77012,,,0
+HS,2015,201504,April 2015,6,1,1,Imports,124,Canada,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,27815,,76921,,,0
+HS,2015,201505,May 2015,6,1,2,Exports,246,Finland,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,9501,,43821,,,0
+HS,2015,201501,January 2015,6,1,2,Exports,348,Hungary,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,3519,,10491,,,0
+HS,2015,201503,March 2015,6,1,2,Exports,124,Canada,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,27632,,70159,,,0
+HS,2015,201505,May 2015,6,1,2,Exports,604,Peru,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,48363,,26173,,,0
+HS,2015,201503,March 2015,6,1,1,Imports,699,India,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,80505,,199670,,,0
+HS,2015,201508,August 2015,6,1,1,Imports,586,Pakistan,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,128059,,209258,,,0
+HS,2015,201505,May 2015,6,1,1,Imports,604,Peru,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,144750,,195726,,,0
+HS,2015,201503,March 2015,6,1,1,Imports,414,Kuwait,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,906,,3014,,,0
+HS,2015,201503,March 2015,6,1,1,Imports,417,Kyrgyzstan,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,30500,,38150,,,0
+HS,2015,201504,April 2015,6,1,2,Exports,124,Canada,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,29178,,40229,,,0
+HS,2015,201501,January 2015,6,1,2,Exports,124,Canada,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,28274,,49600,,,0
+HS,2015,201506,June 2015,6,1,2,Exports,124,Canada,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,19950,,28959,,,0
+HS,2015,201511,November 2015,6,1,1,Imports,68,Bolivia,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,1,,30,,,0
+HS,2015,201502,February 2015,6,1,2,Exports,246,Finland,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,125,,2246,,,0
+HS,2015,201506,June 2015,6,1,2,Exports,604,Peru,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,49815,,29787,,,0
+HS,2015,201508,August 2015,6,1,1,Imports,600,Paraguay,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,23540,,7023,,,0
+HS,2015,201512,December 2015,6,1,1,Imports,699,India,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,277578,,641545,,,0
+HS,2015,201510,October 2015,6,1,1,Imports,344,"China, Hong Kong SAR",,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,7359008,,10282053,,,0
+HS,2015,201507,July 2015,6,1,2,Exports,344,"China, Hong Kong SAR",,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,42837836,,64312150,,,0
+HS,2015,201502,February 2015,6,1,1,Imports,410,Rep. of Korea,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,59977,,213875,,,0
+HS,2015,201512,December 2015,6,1,2,Exports,410,Rep. of Korea,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,52673700,,59951174,,,0
+HS,2015,201512,December 2015,6,1,1,Imports,818,Egypt,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,,,220132,,,0
+HS,2015,201507,July 2015,6,1,1,Imports,233,Estonia,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,24,,1481,,,0
+HS,2015,201504,April 2015,6,1,2,Exports,100,Bulgaria,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,67800,,22291,,,0
+HS,2015,201507,July 2015,6,1,1,Imports,818,Egypt,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,,,124727,,,0
+HS,2015,201512,December 2015,6,1,2,Exports,344,"China, Hong Kong SAR",,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,38300203,,51186834,,,0
+HS,2015,201502,February 2015,6,1,1,Imports,222,El Salvador,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,50200,,70068,,,0
+HS,2015,201507,July 2015,6,1,1,Imports,56,Belgium,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,7045,,19134,,,0
+HS,2015,201508,August 2015,6,1,1,Imports,724,Spain,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,16000,,25876,,,0
+HS,2015,201504,April 2015,6,1,1,Imports,818,Egypt,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,,,104458,,,0
+HS,2015,201512,December 2015,6,1,1,Imports,688,Serbia,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,3,,50,,,0
+HS,2015,201504,April 2015,6,1,2,Exports,724,Spain,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,153400,,235036,,,0
+HS,2015,201502,February 2015,6,1,1,Imports,724,Spain,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,1000,,2032,,,0
+HS,2015,201507,July 2015,6,1,2,Exports,100,Bulgaria,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,44300,,14867,,,0
+HS,2015,201511,November 2015,6,1,1,Imports,398,Kazakhstan,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,144769,,275151,,,0
+HS,2015,201503,March 2015,6,1,1,Imports,231,Ethiopia,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,6720,,12671,,,0
+HS,2015,201503,March 2015,6,1,2,Exports,56,Belgium,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,3110742,,4571933,,,0
+HS,2015,201511,November 2015,6,1,1,Imports,231,Ethiopia,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,81324,,182299,,,0
+HS,2015,201503,March 2015,6,1,1,Imports,410,Rep. of Korea,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,38151,,109849,,,0
+HS,2015,201509,September 2015,6,1,2,Exports,56,Belgium,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,2354614,,4011648,,,0
+HS,2015,201504,April 2015,6,1,2,Exports,344,"China, Hong Kong SAR",,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,43928187,,66105094,,,0
+HS,2015,201504,April 2015,6,1,1,Imports,410,Rep. of Korea,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,61094,,151916,,,0
+HS,2015,201507,July 2015,6,1,1,Imports,344,"China, Hong Kong SAR",,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,4087394,,6141534,,,0
+HS,2015,201510,October 2015,6,1,1,Imports,233,Estonia,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,2500,,6085,,,0
+HS,2015,201503,March 2015,6,1,1,Imports,56,Belgium,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,17012,,55128,,,0
+HS,2015,201508,August 2015,6,1,1,Imports,56,Belgium,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,27965,,73099,,,0
+HS,2015,201503,March 2015,6,1,2,Exports,818,Egypt,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,,,72509,,,0
+HS,2015,201504,April 2015,6,1,2,Exports,398,Kazakhstan,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,400000,,368000,,,0
+HS,2015,201505,May 2015,6,1,1,Imports,398,Kazakhstan,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,749,,809,,,0
+HS,2015,201505,May 2015,6,1,1,Imports,344,"China, Hong Kong SAR",,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,3810557,,6210308,,,0
+HS,2015,201508,August 2015,6,1,1,Imports,231,Ethiopia,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,28500,,76853,,,0
+HS,2015,201504,April 2015,6,1,1,Imports,56,Belgium,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,21009,,104332,,,0
+HS,2015,201502,February 2015,6,1,1,Imports,344,"China, Hong Kong SAR",,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,3177077,,4296704,,,0
+HS,2015,201506,June 2015,6,1,2,Exports,410,Rep. of Korea,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,45957400,,67447841,,,0
+HS,2015,201506,June 2015,6,1,2,Exports,344,"China, Hong Kong SAR",,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,43111435,,65730853,,,0
+HS,2015,201503,March 2015,6,1,2,Exports,398,Kazakhstan,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,500000,,430113,,,0
+HS,2015,201502,February 2015,6,1,2,Exports,410,Rep. of Korea,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,52764200,,62917856,,,0
+HS,2015,201503,March 2015,6,1,1,Imports,344,"China, Hong Kong SAR",,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,4921103,,7128728,,,0
+HS,2015,201505,May 2015,6,1,2,Exports,56,Belgium,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,2168104,,3541573,,,0
+HS,2015,201505,May 2015,6,1,2,Exports,724,Spain,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,74100,,112537,,,0
+HS,2015,201505,May 2015,6,1,1,Imports,724,Spain,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,16800,,33283,,,0
+HS,2015,201509,September 2015,6,1,1,Imports,56,Belgium,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,20900,,53102,,,0
+HS,2015,201507,July 2015,6,1,2,Exports,410,Rep. of Korea,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,54544941,,80031432,,,0
+HS,2015,201509,September 2015,6,1,2,Exports,410,Rep. of Korea,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,51460700,,64635686,,,0
+HS,2015,201508,August 2015,6,1,1,Imports,818,Egypt,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,,,136865,,,0
+HS,2015,201510,October 2015,6,1,1,Imports,231,Ethiopia,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,46001,,78694,,,0
+HS,2015,201506,June 2015,6,1,1,Imports,344,"China, Hong Kong SAR",,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,3430876,,5563507,,,0
+HS,2015,201504,April 2015,6,1,1,Imports,398,Kazakhstan,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,300,,324,,,0
+HS,2015,201512,December 2015,6,1,1,Imports,222,El Salvador,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,74706,,97603,,,0
+HS,2015,201504,April 2015,6,1,1,Imports,344,"China, Hong Kong SAR",,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,2951135,,5207990,,,0
+HS,2015,201506,June 2015,6,1,2,Exports,818,Egypt,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,,,51117,,,0
+HS,2015,201511,November 2015,6,1,1,Imports,344,"China, Hong Kong SAR",,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,3124295,,4557083,,,0
+HS,2015,201501,January 2015,6,1,1,Imports,724,Spain,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,16600,,33445,,,0
+HS,2015,201502,February 2015,6,1,1,Imports,818,Egypt,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,,,29631,,,0
+HS,2015,201502,February 2015,6,1,2,Exports,344,"China, Hong Kong SAR",,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,19737818,,28315168,,,0
+HS,2015,201507,July 2015,6,1,1,Imports,410,Rep. of Korea,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,147640,,343346,,,0
+HS,2015,201511,November 2015,6,1,2,Exports,344,"China, Hong Kong SAR",,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,38567618,,52263531,,,0
+HS,2015,201506,June 2015,6,1,1,Imports,410,Rep. of Korea,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,77776,,218252,,,0
+HS,2015,201506,June 2015,6,1,2,Exports,56,Belgium,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,5332200,,8450299,,,0
+HS,2015,201510,October 2015,6,1,2,Exports,344,"China, Hong Kong SAR",,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,72069282,,99640950,,,0
+HS,2015,201508,August 2015,6,1,2,Exports,410,Rep. of Korea,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,51399100,,70135186,,,0
+HS,2015,201505,May 2015,6,1,1,Imports,56,Belgium,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,35097,,158967,,,0
+HS,2015,201510,October 2015,6,1,2,Exports,56,Belgium,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,3966270,,6529864,,,0
+HS,2015,201506,June 2015,6,1,1,Imports,231,Ethiopia,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,14650,,34123,,,0
+HS,2015,201510,October 2015,6,1,1,Imports,56,Belgium,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,12,,387,,,0
+HS,2015,201509,September 2015,6,1,1,Imports,410,Rep. of Korea,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,119486,,341263,,,0
+HS,2015,201505,May 2015,6,1,1,Imports,222,El Salvador,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,50200,,76665,,,0
+HS,2015,201510,October 2015,6,1,2,Exports,410,Rep. of Korea,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,46923800,,57707607,,,0
+HS,2015,201508,August 2015,6,1,1,Imports,410,Rep. of Korea,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,168566,,398450,,,0
+HS,2015,201504,April 2015,6,1,1,Imports,724,Spain,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,25000,,44205,,,0
+HS,2015,201506,June 2015,6,1,1,Imports,818,Egypt,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,,,112072,,,0
+HS,2015,201502,February 2015,6,1,2,Exports,100,Bulgaria,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,95300,,32994,,,0
+HS,2015,201501,January 2015,6,1,2,Exports,398,Kazakhstan,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,1600000,,1341070,,,0
+HS,2015,201508,August 2015,6,1,1,Imports,398,Kazakhstan,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,1202,,1082,,,0
+HS,2015,201501,January 2015,6,1,2,Exports,724,Spain,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,230200,,336114,,,0
+HS,2015,201504,April 2015,6,1,2,Exports,56,Belgium,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,3320123,,5298693,,,0
+HS,2015,201507,July 2015,6,1,1,Imports,36,Australia,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,1411,,1900,,,0
+HS,2015,201507,July 2015,6,1,1,Imports,528,Netherlands,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,19100,,82492,,,0
+HS,2015,201508,August 2015,6,1,1,Imports,12,Algeria,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,42250,,77571,,,0
+HS,2015,201507,July 2015,6,1,2,Exports,710,South Africa,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,74250,,86709,,,0
+HS,2015,201512,December 2015,6,1,1,Imports,710,South Africa,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,87830,,27231,,,0
+HS,2015,201507,July 2015,6,1,2,Exports,32,Argentina,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,2000,,5100,,,0
+HS,2015,201501,January 2015,6,1,2,Exports,32,Argentina,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,6760,,27315,,,0
+HS,2015,201511,November 2015,6,1,2,Exports,528,Netherlands,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,760843,,1784114,,,0
+HS,2015,201501,January 2015,6,1,2,Exports,800,Uganda,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,18072,,23203,,,0
+HS,2015,201511,November 2015,6,1,1,Imports,392,Japan,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,196140,,328660,,,0
+HS,2015,201512,December 2015,6,1,2,Exports,392,Japan,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,5923640,,7530658,,,0
+HS,2015,201501,January 2015,6,1,2,Exports,392,Japan,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,8954420,,11167537,,,0
+HS,2015,201511,November 2015,6,1,1,Imports,710,South Africa,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,14203,,29520,,,0
+HS,2015,201503,March 2015,6,1,2,Exports,710,South Africa,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,4826147,,5025007,,,0
+HS,2015,201506,June 2015,6,1,1,Imports,392,Japan,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,214133,,390684,,,0
+HS,2015,201512,December 2015,6,1,2,Exports,32,Argentina,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,250,,1000,,,0
+HS,2015,201505,May 2015,6,1,1,Imports,218,Ecuador,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,4012,,7443,,,0
+HS,2015,201502,February 2015,6,1,1,Imports,528,Netherlands,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,15000,,43425,,,0
+HS,2015,201511,November 2015,6,1,2,Exports,36,Australia,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,42000,,49312,,,0
+HS,2015,201510,October 2015,6,1,2,Exports,392,Japan,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,6513300,,7571994,,,0
+HS,2015,201509,September 2015,6,1,1,Imports,36,Australia,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,10760,,17859,,,0
+HS,2015,201510,October 2015,6,1,2,Exports,710,South Africa,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,3440250,,3653915,,,0
+HS,2015,201502,February 2015,6,1,2,Exports,528,Netherlands,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,1130300,,4539285,,,0
+HS,2015,201512,December 2015,6,1,2,Exports,710,South Africa,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,1163250,,985736,,,0
+HS,2015,201511,November 2015,6,1,1,Imports,218,Ecuador,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,18330,,13801,,,0
+HS,2015,201502,February 2015,6,1,2,Exports,484,Mexico,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,7355,,15699,,,0
+HS,2015,201501,January 2015,6,1,1,Imports,887,Yemen,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,40000,,52050,,,0
+HS,2015,201502,February 2015,6,1,2,Exports,705,Slovenia,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,2475,,3780,,,0
+HS,2015,201508,August 2015,6,1,1,Imports,276,Germany,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,2363,,11129,,,0
+HS,2015,201505,May 2015,6,1,2,Exports,203,Czech Rep.,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,6697,,3426,,,0
+HS,2015,201507,July 2015,6,1,2,Exports,276,Germany,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,973796,,1981294,,,0
+HS,2015,201501,January 2015,6,1,1,Imports,203,Czech Rep.,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,2068,,8978,,,0
+HS,2015,201506,June 2015,6,1,1,Imports,381,Italy,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,375,,3283,,,0
+HS,2015,201507,July 2015,6,1,1,Imports,381,Italy,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,20700,,27952,,,0
+HS,2015,201503,March 2015,6,1,2,Exports,484,Mexico,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,3166,,10508,,,0
+HS,2015,201507,July 2015,6,1,1,Imports,203,Czech Rep.,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,5,,294,,,0
+HS,2015,201510,October 2015,6,1,1,Imports,276,Germany,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,16800,,45558,,,0
+HS,2015,201501,January 2015,6,1,2,Exports,203,Czech Rep.,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,3000,,6394,,,0
+HS,2015,201501,January 2015,6,1,2,Exports,276,Germany,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,1070018,,2151025,,,0
+HS,2015,201510,October 2015,6,1,2,Exports,642,Romania,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,100,,146,,,0
+HS,2015,201506,June 2015,6,1,2,Exports,381,Italy,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,563595,,851424,,,0
+HS,2015,201505,May 2015,6,1,2,Exports,484,Mexico,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,2397,,5585,,,0
+HS,2015,201505,May 2015,6,1,2,Exports,381,Italy,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,235770,,419057,,,0
+HS,2015,201502,February 2015,6,1,2,Exports,381,Italy,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,3037285,,3387800,,,0
+HS,2015,201506,June 2015,6,1,2,Exports,276,Germany,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,941875,,1973998,,,0
+HS,2015,201511,November 2015,6,1,2,Exports,203,Czech Rep.,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,41992,,32620,,,0
+HS,2015,201504,April 2015,6,1,2,Exports,381,Italy,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,297766,,559803,,,0
+HS,2015,201505,May 2015,6,1,1,Imports,484,Mexico,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,137112,,246685,,,0
+HS,2015,201512,December 2015,6,1,2,Exports,276,Germany,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,1369442,,2415323,,,0
+HS,2015,201507,July 2015,6,1,2,Exports,381,Italy,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,257900,,562969,,,0
+HS,2015,201510,October 2015,6,1,1,Imports,320,Guatemala,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,1748522,,2161603,,,0
+HS,2015,201507,July 2015,6,1,2,Exports,392,Japan,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,6076050,,7794609,,,0
+HS,2015,201506,June 2015,6,1,2,Exports,32,Argentina,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,3400,,10322,,,0
+HS,2015,201505,May 2015,6,1,1,Imports,392,Japan,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,258960,,499928,,,0
+HS,2015,201512,December 2015,6,1,2,Exports,528,Netherlands,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,537300,,1301542,,,0
+HS,2015,201512,December 2015,6,1,1,Imports,32,Argentina,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,700,,3073,,,0
+HS,2015,201507,July 2015,6,1,2,Exports,528,Netherlands,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,512600,,1168336,,,0
+HS,2015,201502,February 2015,6,1,2,Exports,32,Argentina,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,2515,,9924,,,0
+HS,2015,201505,May 2015,6,1,1,Imports,51,Armenia,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,100,,102,,,0
+HS,2015,201511,November 2015,6,1,2,Exports,710,South Africa,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,1609000,,1579970,,,0
+HS,2015,201504,April 2015,6,1,2,Exports,36,Australia,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,153344,,305308,,,0
+HS,2015,201502,February 2015,6,1,1,Imports,218,Ecuador,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,20000,,16015,,,0
+HS,2015,201501,January 2015,6,1,1,Imports,32,Argentina,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,119000,,164696,,,0
+HS,2015,201509,September 2015,6,1,1,Imports,320,Guatemala,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,606663,,828760,,,0
+HS,2015,201504,April 2015,6,1,1,Imports,320,Guatemala,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,81511,,116917,,,0
+HS,2015,201505,May 2015,6,1,2,Exports,32,Argentina,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,1050,,2675,,,0
+HS,2015,201503,March 2015,6,1,1,Imports,32,Argentina,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,69000,,123321,,,0
+HS,2015,201508,August 2015,6,1,1,Imports,218,Ecuador,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,40420,,52986,,,0
+HS,2015,201508,August 2015,6,1,1,Imports,320,Guatemala,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,508103,,754561,,,0
+HS,2015,201504,April 2015,6,1,1,Imports,710,South Africa,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,108175,,34050,,,0
+HS,2015,201510,October 2015,6,1,1,Imports,528,Netherlands,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,3700,,43457,,,0
+HS,2015,201503,March 2015,6,1,1,Imports,320,Guatemala,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,25175,,33986,,,0
+HS,2015,201506,June 2015,6,1,1,Imports,32,Argentina,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,86550,,174950,,,0
+HS,2015,201503,March 2015,6,1,2,Exports,392,Japan,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,13144800,,16144829,,,0
+HS,2015,201506,June 2015,6,1,2,Exports,392,Japan,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,10657400,,13886196,,,0
+HS,2015,201508,August 2015,6,1,1,Imports,705,Slovenia,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,36,,76,,,0
+HS,2015,201508,August 2015,6,1,2,Exports,484,Mexico,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,4420,,8353,,,0
+HS,2015,201507,July 2015,6,1,2,Exports,203,Czech Rep.,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,1045,,3426,,,0
+HS,2015,201508,August 2015,6,1,2,Exports,203,Czech Rep.,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,25925,,56656,,,0
+HS,2015,201512,December 2015,6,1,1,Imports,203,Czech Rep.,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,50,,107,,,0
+HS,2015,201502,February 2015,6,1,2,Exports,203,Czech Rep.,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,546,,882,,,0
+HS,2015,201501,January 2015,6,1,1,Imports,276,Germany,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,15629,,47762,,,0
+HS,2015,201502,February 2015,6,1,1,Imports,276,Germany,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,3499,,9439,,,0
+HS,2015,201502,February 2015,6,1,2,Exports,276,Germany,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,1149222,,2199010,,,0
+HS,2015,201506,June 2015,6,1,2,Exports,642,Romania,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,2400,,6055,,,0
+HS,2015,201511,November 2015,6,1,1,Imports,705,Slovenia,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,33,,75,,,0
+HS,2015,201505,May 2015,6,1,1,Imports,381,Italy,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,2638,,13383,,,0
+HS,2015,201512,December 2015,6,1,1,Imports,705,Slovenia,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,110,,225,,,0
+HS,2015,201504,April 2015,6,1,2,Exports,642,Romania,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,800,,1727,,,0
+HS,2015,201502,February 2015,6,1,1,Imports,484,Mexico,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,68175,,103248,,,0
+HS,2015,201502,February 2015,6,1,1,Imports,705,Slovenia,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,6875,,7413,,,0
+HS,2015,201504,April 2015,6,1,1,Imports,842,United States of America,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,,,176221,,,0
+HS,2015,201511,November 2015,6,1,1,Imports,703,Slovakia,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,56698,,107283,,,0
+HS,2015,201503,March 2015,6,1,2,Exports,620,Portugal,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,275,,238,,,0
+HS,2015,201502,February 2015,6,1,1,Imports,764,Thailand,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,851433,,1478032,,,0
+HS,2015,201508,August 2015,6,1,1,Imports,458,Malaysia,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,354177,,622661,,,0
+HS,2015,201512,December 2015,6,1,2,Exports,703,Slovakia,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,139970,,176557,,,0
+HS,2015,201504,April 2015,6,1,2,Exports,458,Malaysia,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,8479085,,8793633,,,0
+HS,2015,201509,September 2015,6,1,2,Exports,76,Brazil,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,5469750,,5321956,,,0
+HS,2015,201503,March 2015,6,1,2,Exports,842,United States of America,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,,,5019320,,,0
+HS,2015,201511,November 2015,6,1,1,Imports,376,Israel,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,,,2000,,,0
+HS,2015,201502,February 2015,6,1,2,Exports,842,United States of America,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,,,4045182,,,0
+HS,2015,201502,February 2015,6,1,2,Exports,76,Brazil,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,24750,,28885,,,0
+HS,2015,201508,August 2015,6,1,1,Imports,76,Brazil,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,81375,,233410,,,0
+HS,2015,201509,September 2015,6,1,2,Exports,458,Malaysia,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,22809229,,24476564,,,0
+HS,2015,201505,May 2015,6,1,2,Exports,376,Israel,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,,,323000,,,0
+HS,2015,201501,January 2015,6,1,2,Exports,170,Colombia,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,1182,,1756,,,0
+HS,2015,201511,November 2015,6,1,2,Exports,703,Slovakia,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,72000,,104882,,,0
+HS,2015,201501,January 2015,6,1,1,Imports,170,Colombia,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,219500,,248182,,,0
+HS,2015,201509,September 2015,6,1,2,Exports,376,Israel,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,,,91000,,,0
+HS,2015,201503,March 2015,6,1,1,Imports,842,United States of America,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,,,159536,,,0
+HS,2015,201503,March 2015,6,1,2,Exports,76,Brazil,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,99000,,113112,,,0
+HS,2015,201511,November 2015,6,1,1,Imports,842,United States of America,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,,,430623,,,0
+HS,2015,201502,February 2015,6,1,1,Imports,458,Malaysia,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,274269,,558001,,,0
+HS,2015,201504,April 2015,6,1,2,Exports,376,Israel,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,,,171000,,,0
+HS,2015,201506,June 2015,6,1,1,Imports,76,Brazil,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,76250,,111927,,,0
+HS,2015,201511,November 2015,6,1,2,Exports,124,Canada,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,334932,,286780,,,0
+HS,2015,201502,February 2015,6,1,1,Imports,752,Sweden,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,,,239,,,0
+HS,2015,201501,January 2015,6,1,2,Exports,251,France,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,328619,,527627,,,0
+HS,2015,201508,August 2015,6,1,2,Exports,752,Sweden,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,,,234,,,0
+HS,2015,201510,October 2015,6,1,2,Exports,752,Sweden,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,,,12857,,,0
+HS,2015,201509,September 2015,6,1,2,Exports,702,Singapore,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,30354090,,33284456,,,0
+HS,2015,201502,February 2015,6,1,2,Exports,826,United Kingdom,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,1000,,4512,,,0
+HS,2015,201506,June 2015,6,1,1,Imports,826,United Kingdom,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,7949,,22914,,,0
+HS,2015,201511,November 2015,6,1,1,Imports,752,Sweden,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,,,3343,,,0
+HS,2015,201507,July 2015,6,1,2,Exports,608,Philippines,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,910829,,1108800,,,0
+HS,2015,201506,June 2015,6,1,1,Imports,702,Singapore,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,62490,,116378,,,0
+HS,2015,201510,October 2015,6,1,1,Imports,124,Canada,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,33172,,86332,,,0
+HS,2015,201503,March 2015,6,1,1,Imports,608,Philippines,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,56787,,159191,,,0
+HS,2015,201504,April 2015,6,1,2,Exports,752,Sweden,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,,,3005,,,0
+HS,2015,201505,May 2015,6,1,1,Imports,608,Philippines,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,12100,,48989,,,0
+HS,2015,201511,November 2015,6,1,1,Imports,702,Singapore,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,115090,,334913,,,0
+HS,2015,201507,July 2015,6,1,1,Imports,702,Singapore,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,17860,,46240,,,0
+HS,2015,201502,February 2015,6,1,2,Exports,608,Philippines,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,319081,,348480,,,0
+HS,2015,201504,April 2015,6,1,1,Imports,702,Singapore,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,129920,,213927,,,0
+HS,2015,201506,June 2015,6,1,2,Exports,826,United Kingdom,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,10190,,37021,,,0
+HS,2015,201501,January 2015,6,1,1,Imports,251,France,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,2096,,3390,,,0
+HS,2015,201512,December 2015,6,1,1,Imports,152,Chile,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,20387,,13426,,,0
+HS,2015,201510,October 2015,6,1,1,Imports,752,Sweden,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,,,120,,,0
+HS,2015,201511,November 2015,6,1,1,Imports,124,Canada,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,215783,,281293,,,0
+HS,2015,201509,September 2015,6,1,1,Imports,702,Singapore,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,109340,,202048,,,0
+HS,2015,201508,August 2015,6,1,2,Exports,842,United States of America,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,,,5632083,,,0
+HS,2015,201510,October 2015,6,1,1,Imports,620,Portugal,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,2,,656,,,0
+HS,2015,201507,July 2015,6,1,1,Imports,458,Malaysia,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,212823,,454824,,,0
+HS,2015,201501,January 2015,6,1,2,Exports,76,Brazil,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,5024250,,5732673,,,0
+HS,2015,201506,June 2015,6,1,1,Imports,842,United States of America,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,,,166992,,,0
+HS,2015,201512,December 2015,6,1,2,Exports,376,Israel,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,,,508000,,,0
+HS,2015,201512,December 2015,6,1,2,Exports,458,Malaysia,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,21914343,,22843625,,,0
+HS,2015,201512,December 2015,6,1,1,Imports,842,United States of America,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,,,546180,,,0
+HS,2015,201504,April 2015,6,1,1,Imports,458,Malaysia,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,188405,,356179,,,0
+HS,2015,201504,April 2015,6,1,2,Exports,842,United States of America,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,,,10191543,,,0
+HS,2015,201511,November 2015,6,1,2,Exports,620,Portugal,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,600,,274,,,0
+HS,2015,201508,August 2015,6,1,2,Exports,76,Brazil,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,8192250,,8757356,,,0
+HS,2015,201508,August 2015,6,1,1,Imports,620,Portugal,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,16500,,43918,,,0
+HS,2015,201512,December 2015,6,1,2,Exports,76,Brazil,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,49500,,37293,,,0
+HS,2015,201506,June 2015,6,1,2,Exports,458,Malaysia,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,7050860,,7886749,,,0
+HS,2015,201507,July 2015,6,1,1,Imports,842,United States of America,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,,,285088,,,0
+HS,2015,201507,July 2015,6,1,2,Exports,376,Israel,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,,,566000,,,0
+HS,2015,201501,January 2015,6,1,1,Imports,842,United States of America,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,,,142463,,,0
+HS,2015,201503,March 2015,6,1,2,Exports,458,Malaysia,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,7431051,,7315902,,,0
+HS,2015,201511,November 2015,6,1,1,Imports,76,Brazil,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,261500,,290748,,,0
+HS,2015,201505,May 2015,6,1,2,Exports,842,United States of America,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,,,8565441,,,0
+HS,2015,201509,September 2015,6,1,1,Imports,842,United States of America,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,,,248652,,,0
+HS,2015,201509,September 2015,6,1,1,Imports,620,Portugal,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,80,,2611,,,0
+HS,2015,201507,July 2015,6,1,2,Exports,76,Brazil,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,7482750,,8674386,,,0
+HS,2015,201503,March 2015,6,1,1,Imports,76,Brazil,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,77700,,198506,,,0
+HS,2015,201501,January 2015,6,1,1,Imports,268,Georgia,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,55000,,58037,,,0
+HS,2015,201501,January 2015,6,1,1,Imports,458,Malaysia,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,290547,,583570,,,0
+HS,2015,201512,December 2015,6,1,1,Imports,703,Slovakia,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,76648,,125298,,,0
+HS,2015,201503,March 2015,6,1,1,Imports,458,Malaysia,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,285587,,458925,,,0
+HS,2015,201512,December 2015,6,1,1,Imports,458,Malaysia,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,363106,,726271,,,0
+HS,2015,201504,April 2015,6,1,1,Imports,76,Brazil,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,33450,,72021,,,0
+HS,2015,201510,October 2015,6,1,1,Imports,842,United States of America,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,,,309663,,,0
+HS,2015,201501,January 2015,6,1,1,Imports,76,Brazil,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,156950,,305530,,,0
+HS,2015,201512,December 2015,6,1,2,Exports,752,Sweden,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,,,941,,,0
+HS,2015,201511,November 2015,6,1,2,Exports,702,Singapore,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,34849150,,36025882,,,0
+HS,2015,201511,November 2015,6,1,2,Exports,752,Sweden,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,,,30545,,,0
+HS,2015,201510,October 2015,6,1,2,Exports,608,Philippines,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,1767090,,1971499,,,0
+HS,2015,201512,December 2015,6,1,2,Exports,124,Canada,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,329601,,281797,,,0
+HS,2015,201505,May 2015,6,1,2,Exports,702,Singapore,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,29078240,,38969747,,,0
+HS,2015,201504,April 2015,6,1,2,Exports,440,Lithuania,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,44150,,69600,,,0
+HS,2015,201507,July 2015,6,1,2,Exports,826,United Kingdom,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,48161,,91743,,,0
+HS,2015,201509,September 2015,6,1,1,Imports,826,United Kingdom,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,33173,,118121,,,0
+HS,2015,201510,October 2015,6,1,1,Imports,608,Philippines,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,28922,,66169,,,0
+HS,2015,201511,November 2015,6,1,1,Imports,826,United Kingdom,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,28585,,112233,,,0
+HS,2015,201512,December 2015,6,1,1,Imports,752,Sweden,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,,,235,,,0
+HS,2015,201502,February 2015,6,1,2,Exports,702,Singapore,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,36761990,,40163359,,,0
+HS,2015,201507,July 2015,6,1,1,Imports,826,United Kingdom,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,38271,,150719,,,0
+HS,2015,201512,December 2015,6,1,1,Imports,826,United Kingdom,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,9157,,88709,,,0
+HS,2015,201503,March 2015,6,1,2,Exports,752,Sweden,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,,,1992,,,0
+HS,2015,201509,September 2015,6,1,2,Exports,608,Philippines,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,2308769,,2842176,,,0
+HS,2015,201512,December 2015,6,1,1,Imports,608,Philippines,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,33203,,93965,,,0
+HS,2015,201512,December 2015,6,1,2,Exports,826,United Kingdom,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,6291,,15474,,,0
+HS,2015,201501,January 2015,6,1,1,Imports,608,Philippines,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,5030,,18842,,,0
+HS,2015,201509,September 2015,6,1,2,Exports,826,United Kingdom,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,66785,,115960,,,0
+HS,2015,201509,September 2015,6,1,2,Exports,752,Sweden,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,,,358,,,0
+HS,2015,201511,November 2015,6,1,2,Exports,826,United Kingdom,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,13963,,33413,,,0
+HS,2015,201509,September 2015,6,1,1,Imports,608,Philippines,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,22858,,38771,,,0
+HS,2015,201510,October 2015,6,1,2,Exports,702,Singapore,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,42067240,,45960965,,,0
+HS,2015,201509,September 2015,6,1,1,Imports,699,India,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,652685,,1434502,,,0
+HS,2015,201507,July 2015,6,1,1,Imports,586,Pakistan,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,41600,,58164,,,0
+HS,2015,201501,January 2015,6,1,1,Imports,417,Kyrgyzstan,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,51935,,59891,,,0
+HS,2015,201503,March 2015,6,1,2,Exports,699,India,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,418674,,401511,,,0
+HS,2015,201507,July 2015,6,1,2,Exports,124,Canada,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,46529,,63963,,,0
+HS,2015,201512,December 2015,6,1,1,Imports,414,Kuwait,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,200,,326,,,0
+HS,2015,201510,October 2015,6,1,2,Exports,246,Finland,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,14373,,105281,,,0
+HS,2015,201508,August 2015,6,1,1,Imports,417,Kyrgyzstan,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,103400,,125519,,,0
+HS,2015,201509,September 2015,6,1,2,Exports,124,Canada,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,62668,,123457,,,0
+HS,2015,201504,April 2015,6,1,1,Imports,699,India,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,1105700,,1584904,,,0
+HS,2015,201512,December 2015,6,1,1,Imports,246,Finland,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,1875,,30143,,,0
+HS,2015,201502,February 2015,6,1,2,Exports,124,Canada,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,14288,,39724,,,0
+HS,2015,201506,June 2015,6,1,2,Exports,348,Hungary,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,23099,,13707,,,0
+HS,2015,201509,September 2015,6,1,1,Imports,246,Finland,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,2,,156,,,0
+HS,2015,201506,June 2015,6,1,1,Imports,699,India,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,465050,,940039,,,0
+HS,2015,201511,November 2015,6,1,1,Imports,699,India,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,335350,,869499,,,0
+HS,2015,201505,May 2015,6,1,1,Imports,699,India,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,1524619,,2326132,,,0
+HS,2015,201509,September 2015,6,1,2,Exports,699,India,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,14105120,,14065789,,,0
+HS,2015,201503,March 2015,6,1,2,Exports,246,Finland,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,10035,,31087,,,0
+HS,2015,201506,June 2015,6,1,1,Imports,586,Pakistan,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,63000,,127155,,,0
+HS,2015,201512,December 2015,6,1,1,Imports,586,Pakistan,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,33499,,42537,,,0
+HS,2015,201507,July 2015,6,1,1,Imports,600,Paraguay,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,75000,,105645,,,0
+HS,2015,201504,April 2015,6,1,2,Exports,699,India,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,628137,,635462,,,0
+HS,2015,201507,July 2015,6,1,1,Imports,604,Peru,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,200,,239,,,0
+HS,2015,201507,July 2015,6,1,2,Exports,604,Peru,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,24670,,14749,,,0
+HS,2015,201512,December 2015,6,1,2,Exports,699,India,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,11258665,,9674305,,,0
+HS,2015,201509,September 2015,6,1,1,Imports,68,Bolivia,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,5602,,8289,,,0
+HS,2015,201502,February 2015,6,1,1,Imports,586,Pakistan,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,30005,,76243,,,0
+HS,2015,201510,October 2015,6,1,1,Imports,68,Bolivia,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,5000,,11193,,,0
+HS,2015,201510,October 2015,6,1,1,Imports,604,Peru,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,132000,,160708,,,0
+HS,2015,201503,March 2015,6,1,1,Imports,600,Paraguay,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,96000,,159834,,,0
+HS,2015,201511,November 2015,6,1,2,Exports,699,India,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,10359500,,9899276,,,0
+HS,2015,201504,April 2015,6,1,1,Imports,586,Pakistan,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,42550,,97673,,,0
+HS,2015,201504,April 2015,6,1,2,Exports,348,Hungary,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,2704,,14954,,,0
+HS,2015,201505,May 2015,6,1,1,Imports,68,Bolivia,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,3012,,2751,,,0
+HS,2015,201507,July 2015,6,1,1,Imports,699,India,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,264020,,633353,,,0
+HS,2015,201506,June 2015,6,1,2,Exports,699,India,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,16224780,,18532438,,,0
+HS,2015,201507,July 2015,6,1,2,Exports,348,Hungary,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,5868,,7512,,,0
+HS,2015,201512,December 2015,6,1,2,Exports,348,Hungary,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,300,,648,,,0
+HS,2015,201502,February 2015,6,1,1,Imports,417,Kyrgyzstan,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,57973,,65893,,,0
+HS,2015,201508,August 2015,6,1,1,Imports,246,Finland,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,1680,,19051,,,0
+HS,2015,201509,September 2015,6,1,1,Imports,417,Kyrgyzstan,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,188576,,221363,,,0
+HS,2015,201501,January 2015,6,1,1,Imports,124,Canada,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,30668,,71662,,,0
+HS,2015,201505,May 2015,6,1,2,Exports,699,India,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,18643335,,18201034,,,0
+HS,2015,201508,August 2015,6,1,2,Exports,124,Canada,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,268609,,380646,,,0
+HS,2015,201511,November 2015,6,1,1,Imports,417,Kyrgyzstan,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,6140,,2205,,,0
+HS,2015,201510,October 2015,6,1,1,Imports,699,India,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,1265030,,1671292,,,0
+HS,2015,201502,February 2015,6,1,2,Exports,348,Hungary,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,3152,,12274,,,0
+HS,2015,201512,December 2015,6,1,1,Imports,72,Botswana,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,0,,19,,,0
+HS,2015,201503,March 2015,6,1,2,Exports,348,Hungary,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,2300,,5171,,,0
+HS,2015,201504,April 2015,6,1,2,Exports,616,Poland,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,2035,,8322,,,0
+HS,2015,201511,November 2015,6,1,1,Imports,616,Poland,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,53,,1057,,,0
+HS,2015,201508,August 2015,6,1,2,Exports,616,Poland,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,6707,,14511,,,0
+HS,2015,201507,July 2015,6,1,1,Imports,616,Poland,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,245,,1431,,,0
+HS,2015,201507,July 2015,6,1,2,Exports,251,France,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,442260,,617147,,,0
+HS,2015,201507,July 2015,6,1,1,Imports,251,France,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,756,,2497,,,0
+HS,2015,201502,February 2015,6,1,2,Exports,372,Ireland,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,1960,,6810,,,0
+HS,2015,201501,January 2015,6,1,2,Exports,703,Slovakia,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,76456,,108232,,,0
+HS,2015,201507,July 2015,6,1,1,Imports,442,Luxembourg,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,20000,,41916,,,0
+HS,2015,201509,September 2015,6,1,2,Exports,442,Luxembourg,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,115,,168,,,0
+HS,2015,201503,March 2015,6,1,1,Imports,703,Slovakia,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,123651,,186449,,,0
+HS,2015,201506,June 2015,6,1,1,Imports,251,France,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,,,43820,,,0
+HS,2015,201509,September 2015,6,1,1,Imports,372,Ireland,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,697,,8903,,,0
+HS,2015,201508,August 2015,6,1,1,Imports,757,Switzerland,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,43,,465,,,0
+HS,2015,201509,September 2015,6,1,2,Exports,616,Poland,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,85,,19,,,0
+HS,2015,201506,June 2015,6,1,1,Imports,703,Slovakia,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,97407,,143944,,,0
+HS,2015,201509,September 2015,6,1,2,Exports,757,Switzerland,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,23,,113,,,0
+HS,2015,201507,July 2015,6,1,2,Exports,757,Switzerland,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,6802,,21530,,,0
+HS,2015,201509,September 2015,6,1,2,Exports,703,Slovakia,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,21000,,33597,,,0
+HS,2015,201503,March 2015,6,1,1,Imports,372,Ireland,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,1001,,2868,,,0
+HS,2015,201510,October 2015,6,1,1,Imports,616,Poland,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,3,,154,,,0
+HS,2015,201508,August 2015,6,1,1,Imports,251,France,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,1000,,12453,,,0
+HS,2015,201506,June 2015,6,1,1,Imports,757,Switzerland,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,2293,,9721,,,0
+HS,2015,201512,December 2015,6,1,1,Imports,372,Ireland,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,1532,,17800,,,0
+HS,2015,201505,May 2015,6,1,1,Imports,757,Switzerland,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,11,,86,,,0
+HS,2015,201505,May 2015,6,1,1,Imports,616,Poland,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,15775,,16106,,,0
+HS,2015,201511,November 2015,6,1,2,Exports,442,Luxembourg,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,650,,1026,,,0
+HS,2015,201510,October 2015,6,1,2,Exports,703,Slovakia,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,118050,,175733,,,0
+HS,2015,201501,January 2015,6,1,1,Imports,616,Poland,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,5343,,36675,,,0
+HS,2015,201502,February 2015,6,1,2,Exports,703,Slovakia,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,80900,,110261,,,0
+HS,2015,201503,March 2015,6,1,2,Exports,757,Switzerland,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,4740,,13944,,,0
+HS,2015,201506,June 2015,6,1,2,Exports,616,Poland,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,13240,,23886,,,0
+HS,2015,201502,February 2015,6,1,2,Exports,757,Switzerland,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,4224,,13718,,,0
+HS,2015,201506,June 2015,6,1,1,Imports,450,Madagascar,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,28000,,17486,,,0
+HS,2015,201504,April 2015,6,1,1,Imports,757,Switzerland,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,1,,17,,,0
+HS,2015,201504,April 2015,6,1,1,Imports,703,Slovakia,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,76413,,128410,,,0
+HS,2015,201506,June 2015,6,1,2,Exports,757,Switzerland,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,3275,,12575,,,0
+HS,2015,201506,June 2015,6,1,2,Exports,251,France,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,241792,,464281,,,0
+HS,2015,201510,October 2015,6,1,2,Exports,372,Ireland,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,577,,2726,,,0
+HS,2015,201511,November 2015,6,1,1,Imports,757,Switzerland,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,1,,124,,,0
+HS,2015,201510,October 2015,6,1,1,Imports,757,Switzerland,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,59,,908,,,0
+HS,2015,201511,November 2015,6,1,2,Exports,616,Poland,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,1660,,50506,,,0
+HS,2015,201509,September 2015,6,1,2,Exports,251,France,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,390789,,676998,,,0
+HS,2015,201503,March 2015,6,1,2,Exports,616,Poland,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,24551,,25203,,,0
+HS,2015,201502,February 2015,6,1,1,Imports,372,Ireland,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,205,,561,,,0
+HS,2015,201501,January 2015,6,1,1,Imports,156,China,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,1696405,,3441075,,,0
+HS,2015,201506,June 2015,6,1,1,Imports,372,Ireland,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,815,,3973,,,0
+HS,2015,201501,January 2015,6,1,1,Imports,757,Switzerland,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,513,,727,,,0
+HS,2015,201512,December 2015,6,1,2,Exports,757,Switzerland,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,1,,11,,,0
+HS,2015,201508,August 2015,6,1,2,Exports,757,Switzerland,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,1117,,6651,,,0
+HS,2015,201503,March 2015,6,1,1,Imports,528,Netherlands,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,28700,,91527,,,0
+HS,2015,201512,December 2015,6,1,2,Exports,97,EU-27,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,6278000,,10480925,,,0
+HS,2015,201512,December 2015,6,1,2,Exports,36,Australia,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,272500,,288906,,,0
+HS,2015,201508,August 2015,6,1,2,Exports,710,South Africa,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,965252,,1030436,,,0
+HS,2015,201506,June 2015,6,1,2,Exports,36,Australia,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,16250,,22528,,,0
+HS,2015,201504,April 2015,6,1,2,Exports,32,Argentina,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,673,,2123,,,0
+HS,2015,201510,October 2015,6,1,2,Exports,32,Argentina,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,5700,,8116,,,0
+HS,2015,201511,November 2015,6,1,2,Exports,32,Argentina,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,700,,1100,,,0
+HS,2015,201512,December 2015,6,1,1,Imports,218,Ecuador,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,7650,,18240,,,0
+HS,2015,201504,April 2015,6,1,2,Exports,710,South Africa,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,4702550,,5449380,,,0
+HS,2015,201502,February 2015,6,1,1,Imports,32,Argentina,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,1500,,4404,,,0
+HS,2015,201511,November 2015,6,1,1,Imports,12,Algeria,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,22000,,30603,,,0
+HS,2015,201507,July 2015,6,1,1,Imports,320,Guatemala,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,64423,,101395,,,0
+HS,2015,201503,March 2015,6,1,1,Imports,218,Ecuador,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,84174,,92852,,,0
+HS,2015,201503,March 2015,6,1,2,Exports,36,Australia,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,1100000,,1375620,,,0
+HS,2015,201506,June 2015,6,1,1,Imports,528,Netherlands,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,42100,,200253,,,0
+HS,2015,201511,November 2015,6,1,1,Imports,36,Australia,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,3000,,7648,,,0
+HS,2015,201504,April 2015,6,1,2,Exports,528,Netherlands,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,1192700,,3257435,,,0
+HS,2015,201505,May 2015,6,1,2,Exports,392,Japan,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,8996430,,11391667,,,0
+HS,2015,201504,April 2015,6,1,1,Imports,218,Ecuador,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,15000,,15103,,,0
+HS,2015,201502,February 2015,6,1,1,Imports,12,Algeria,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,42000,,76848,,,0
+HS,2015,201501,January 2015,6,1,1,Imports,528,Netherlands,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,13200,,52027,,,0
+HS,2015,201510,October 2015,6,1,1,Imports,32,Argentina,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,200000,,540000,,,0
+HS,2015,201501,January 2015,6,1,1,Imports,218,Ecuador,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,26826,,32543,,,0
+HS,2015,201508,August 2015,6,1,1,Imports,528,Netherlands,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,46400,,155322,,,0
+HS,2015,201509,September 2015,6,1,1,Imports,392,Japan,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,193521,,295363,,,0
+HS,2015,201506,June 2015,6,1,1,Imports,51,Armenia,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,150,,170,,,0
+HS,2015,201507,July 2015,6,1,1,Imports,218,Ecuador,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,230726,,347980,,,0
+HS,2015,201501,January 2015,6,1,1,Imports,800,Uganda,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,18072,,23203,,,0
+HS,2015,201502,February 2015,6,1,1,Imports,392,Japan,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,149635,,294009,,,0
+HS,2015,201503,March 2015,6,1,2,Exports,528,Netherlands,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,1280400,,2786417,,,0
+HS,2015,201502,February 2015,6,1,1,Imports,804,Ukraine,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,32,,82,,,0
+HS,2015,201509,September 2015,6,1,1,Imports,218,Ecuador,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,35857,,23764,,,0
+HS,2015,201502,February 2015,6,1,2,Exports,36,Australia,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,3996025,,3694634,,,0
+HS,2015,201510,October 2015,6,1,1,Imports,218,Ecuador,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,300,,1297,,,0
+HS,2015,201512,December 2015,6,1,1,Imports,392,Japan,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,141117,,305270,,,0
+HS,2015,201510,October 2015,6,1,2,Exports,528,Netherlands,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,392100,,1043350,,,0
+HS,2015,201505,May 2015,6,1,2,Exports,528,Netherlands,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,945200,,2190195,,,0
+HS,2015,201511,November 2015,6,1,1,Imports,320,Guatemala,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,450551,,529771,,,0
+HS,2015,201508,August 2015,6,1,2,Exports,528,Netherlands,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,1045400,,2466030,,,0
+HS,2015,201502,February 2015,6,1,1,Imports,710,South Africa,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,39940,,94574,,,0
+HS,2015,201509,September 2015,6,1,2,Exports,32,Argentina,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,2025,,6570,,,0
+HS,2015,201501,January 2015,6,1,1,Imports,36,Australia,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,0,,1303,,,0
+HS,2015,201504,April 2015,6,1,2,Exports,392,Japan,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,8534340,,10761991,,,0
+HS,2015,201509,September 2015,6,1,1,Imports,528,Netherlands,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,19800,,51426,,,0
+HS,2015,201509,September 2015,6,1,2,Exports,392,Japan,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,6363920,,7377154,,,0
+HS,2015,201509,September 2015,6,1,1,Imports,32,Argentina,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,191100,,383013,,,0
+HS,2015,201505,May 2015,6,1,2,Exports,710,South Africa,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,3515114,,4473639,,,0
+HS,2015,201512,December 2015,6,1,1,Imports,320,Guatemala,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,934078,,1058940,,,0
+HS,2015,201502,February 2015,6,1,2,Exports,688,Serbia,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,3868,,1875,,,0
+HS,2015,201506,June 2015,6,1,2,Exports,528,Netherlands,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,478300,,1206418,,,0
+HS,2015,201506,June 2015,6,1,2,Exports,320,Guatemala,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,20055,,5500,,,0
+HS,2015,201508,August 2015,6,1,1,Imports,97,EU-27,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,,,566006,,,0
+HS,2015,201507,July 2015,6,1,2,Exports,643,Russian Federation,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,50240,,11607,,,0
+HS,2015,201506,June 2015,6,1,1,Imports,40,Austria,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,100,,471,,,0
+HS,2015,201506,June 2015,6,1,1,Imports,792,Turkey,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,106290,,178548,,,0
+HS,2015,201510,October 2015,6,1,1,Imports,508,Mozambique,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,5662,,4757,,,0
+HS,2015,201511,November 2015,6,1,2,Exports,208,Denmark,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,10,,99,,,0
+HS,2015,201504,April 2015,6,1,2,Exports,792,Turkey,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,236204,,275606,,,0
+HS,2015,201503,March 2015,6,1,1,Imports,97,EU-27,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,331800,,663329,,,0
+HS,2015,201511,November 2015,6,1,2,Exports,484,Mexico,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,2215,,4894,,,0
+HS,2015,201502,February 2015,6,1,2,Exports,97,EU-27,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,7790600,,13811906,,,0
+HS,2015,201510,October 2015,6,1,1,Imports,40,Austria,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,1500,,1977,,,0
+HS,2015,201507,July 2015,6,1,1,Imports,208,Denmark,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,8110,,6486,,,0
+HS,2015,201507,July 2015,6,1,2,Exports,208,Denmark,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,4676,,16058,,,0
+HS,2015,201509,September 2015,6,1,2,Exports,792,Turkey,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,167450,,170791,,,0
+HS,2015,201501,January 2015,6,1,2,Exports,792,Turkey,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,180570,,220316,,,0
+HS,2015,201502,February 2015,6,1,2,Exports,792,Turkey,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,252658,,298143,,,0
+HS,2015,201512,December 2015,6,1,2,Exports,40,Austria,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,92500,,106464,,,0
+HS,2015,201508,August 2015,6,1,1,Imports,208,Denmark,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,6200,,13249,,,0
+HS,2015,201512,December 2015,6,1,2,Exports,208,Denmark,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,1000,,1943,,,0
+HS,2015,201508,August 2015,6,1,2,Exports,40,Austria,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,163000,,247085,,,0
+HS,2015,201506,June 2015,6,1,1,Imports,97,EU-27,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,246429,,675228,,,0
+HS,2015,201512,December 2015,6,1,1,Imports,646,Rwanda,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,,,428,,,0
+HS,2015,201505,May 2015,6,1,1,Imports,792,Turkey,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,24,,312,,,0
+HS,2015,201506,June 2015,6,1,2,Exports,40,Austria,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,208200,,375860,,,0
+HS,2015,201507,July 2015,6,1,1,Imports,97,EU-27,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,,,471508,,,0
+HS,2015,201505,May 2015,6,1,1,Imports,40,Austria,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,18700,,61760,,,0
+HS,2015,201508,August 2015,6,1,2,Exports,97,EU-27,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,,,11490770,,,0
+HS,2015,201510,October 2015,6,1,1,Imports,381,Italy,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,850,,2228,,,0
+HS,2015,201503,March 2015,6,1,1,Imports,643,Russian Federation,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,45216,,62613,,,0
+HS,2015,201501,January 2015,6,1,1,Imports,97,EU-27,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,,,423829,,,0
+HS,2015,201511,November 2015,6,1,1,Imports,643,Russian Federation,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,115100,,130579,,,0
+HS,2015,201503,March 2015,6,1,2,Exports,643,Russian Federation,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,6718,,12519,,,0
+HS,2015,201510,October 2015,6,1,2,Exports,40,Austria,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,29200,,53479,,,0
+HS,2015,201503,March 2015,6,1,1,Imports,504,Morocco,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,3000,,3940,,,0
+HS,2015,201510,October 2015,6,1,1,Imports,643,Russian Federation,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,162800,,222825,,,0
+HS,2015,201511,November 2015,6,1,1,Imports,300,Greece,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,63,,567,,,0
+HS,2015,201501,January 2015,6,1,1,Imports,508,Mozambique,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,21120,,13229,,,0
+HS,2015,201508,August 2015,6,1,1,Imports,646,Rwanda,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,,,2542,,,0
+HS,2015,201503,March 2015,6,1,2,Exports,97,EU-27,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,7201600,,11915232,,,0
+HS,2015,201511,November 2015,6,1,1,Imports,40,Austria,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,198,,3118,,,0
+HS,2015,201512,December 2015,6,1,2,Exports,792,Turkey,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,180702,,249542,,,0
+HS,2015,201509,September 2015,6,1,1,Imports,508,Mozambique,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,25950,,18153,,,0
+HS,2015,201510,October 2015,6,1,1,Imports,498,Rep. of Moldova,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,25,,19,,,0
+HS,2015,201510,October 2015,6,1,1,Imports,97,EU-27,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,,,420178,,,0
+HS,2015,201502,February 2015,6,1,1,Imports,208,Denmark,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,1,,5,,,0
+HS,2015,201505,May 2015,6,1,2,Exports,40,Austria,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,332100,,623318,,,0
+HS,2015,201511,November 2015,6,1,2,Exports,643,Russian Federation,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,21474,,4724,,,0
+HS,2015,201504,April 2015,6,1,1,Imports,208,Denmark,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,4,,167,,,0
+HS,2015,201509,September 2015,6,1,1,Imports,792,Turkey,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,451115,,567619,,,0
+HS,2015,201512,December 2015,6,1,2,Exports,484,Mexico,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,64152,,76664,,,0
+HS,2015,201510,October 2015,6,1,2,Exports,699,India,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,17311430,,16887186,,,0
+HS,2015,201510,October 2015,6,1,1,Imports,586,Pakistan,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,28845,,34722,,,0
+HS,2015,201502,February 2015,6,1,1,Imports,246,Finland,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,53,,612,,,0
+HS,2015,201503,March 2015,6,1,1,Imports,72,Botswana,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,75603,,237731,,,0
+HS,2015,201509,September 2015,6,1,2,Exports,246,Finland,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,25457,,55793,,,0
+HS,2015,201507,July 2015,6,1,2,Exports,699,India,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,31944945,,37531642,,,0
+HS,2015,201505,May 2015,6,1,1,Imports,124,Canada,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,10471,,28829,,,0
+HS,2015,201501,January 2015,6,1,2,Exports,699,India,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,30203225,,32475926,,,0
+HS,2015,201505,May 2015,6,1,2,Exports,348,Hungary,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,45124,,27737,,,0
+HS,2015,201503,March 2015,6,1,2,Exports,604,Peru,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,51664,,29055,,,0
+HS,2015,201504,April 2015,6,1,1,Imports,417,Kyrgyzstan,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,91722,,114699,,,0
+HS,2015,201510,October 2015,6,1,2,Exports,348,Hungary,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,500,,678,,,0
+HS,2015,201502,February 2015,6,1,1,Imports,699,India,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,88315,,179618,,,0
+HS,2015,201507,July 2015,6,1,1,Imports,124,Canada,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,41757,,139623,,,0
+HS,2015,201504,April 2015,6,1,1,Imports,68,Bolivia,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,84000,,169424,,,0
+HS,2015,201510,October 2015,6,1,1,Imports,112,Belarus,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,208,,100,,,0
+HS,2015,201502,February 2015,6,1,1,Imports,124,Canada,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,39865,,111109,,,0
+HS,2015,201506,June 2015,6,1,2,Exports,246,Finland,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,4980,,20103,,,0
+HS,2015,201506,June 2015,6,1,1,Imports,124,Canada,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,35426,,93589,,,0
+HS,2015,201508,August 2015,6,1,1,Imports,348,Hungary,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,50,,100,,,0
+HS,2015,201505,May 2015,6,1,2,Exports,124,Canada,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,21486,,43875,,,0
+HS,2015,201502,February 2015,6,1,2,Exports,699,India,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,11388650,,11387898,,,0
+HS,2015,201501,January 2015,6,1,1,Imports,699,India,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,75709,,218449,,,0
+HS,2015,201505,May 2015,6,1,1,Imports,417,Kyrgyzstan,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,139000,,173800,,,0
+HS,2015,201511,November 2015,6,1,1,Imports,586,Pakistan,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,21800,,41217,,,0
+HS,2015,201506,June 2015,6,1,1,Imports,608,Philippines,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,12000,,51274,,,0
+HS,2015,201504,April 2015,6,1,1,Imports,826,United Kingdom,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,3762,,17580,,,0
+HS,2015,201510,October 2015,6,1,1,Imports,702,Singapore,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,55060,,235018,,,0
+HS,2015,201508,August 2015,6,1,2,Exports,702,Singapore,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,33032100,,40141513,,,0
+HS,2015,201512,December 2015,6,1,2,Exports,702,Singapore,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,30095170,,29607534,,,0
+HS,2015,201512,December 2015,6,1,1,Imports,702,Singapore,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,164160,,207130,,,0
+HS,2015,201511,November 2015,6,1,1,Imports,152,Chile,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,139,,195,,,0
+HS,2015,201505,May 2015,6,1,1,Imports,702,Singapore,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,74180,,148330,,,0
+HS,2015,201507,July 2015,6,1,2,Exports,440,Lithuania,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,175,,58,,,0
+HS,2015,201504,April 2015,6,1,2,Exports,608,Philippines,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,915469,,1054960,,,0
+HS,2015,201507,July 2015,6,1,1,Imports,608,Philippines,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,560,,8704,,,0
+HS,2015,201511,November 2015,6,1,1,Imports,608,Philippines,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,97908,,231577,,,0
+HS,2015,201503,March 2015,6,1,1,Imports,752,Sweden,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,,,234,,,0
+HS,2015,201503,March 2015,6,1,1,Imports,826,United Kingdom,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,23649,,94418,,,0
+HS,2015,201503,March 2015,6,1,2,Exports,608,Philippines,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,9316074,,10465240,,,0
+HS,2015,201508,August 2015,6,1,1,Imports,702,Singapore,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,65080,,140139,,,0
+HS,2015,201511,November 2015,6,1,2,Exports,440,Lithuania,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,57,,22,,,0
+HS,2015,201510,October 2015,6,1,2,Exports,124,Canada,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,67752,,77389,,,0
+HS,2015,201501,January 2015,6,1,1,Imports,702,Singapore,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,58190,,290658,,,0
+HS,2015,201505,May 2015,6,1,2,Exports,752,Sweden,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,,,13181,,,0
+HS,2015,201502,February 2015,6,1,1,Imports,702,Singapore,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,135300,,194217,,,0
+HS,2015,201504,April 2015,6,1,2,Exports,826,United Kingdom,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,14889,,30522,,,0
+HS,2015,201501,January 2015,6,1,2,Exports,702,Singapore,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,34834290,,44208623,,,0
+HS,2015,201510,October 2015,6,1,1,Imports,826,United Kingdom,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,7742,,24903,,,0
+HS,2015,201509,September 2015,6,1,1,Imports,348,Hungary,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,78,,830,,,0
+HS,2015,201504,April 2015,6,1,2,Exports,246,Finland,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,44412,,15820,,,0
+HS,2015,201505,May 2015,6,1,1,Imports,586,Pakistan,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,46000,,62757,,,0
+HS,2015,201507,July 2015,6,1,1,Imports,417,Kyrgyzstan,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,71700,,89639,,,0
+HS,2015,201509,September 2015,6,1,1,Imports,604,Peru,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,127000,,172530,,,0
+HS,2015,201507,July 2015,6,1,2,Exports,246,Finland,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,12512,,66231,,,0
+HS,2015,201508,August 2015,6,1,1,Imports,699,India,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,367400,,924760,,,0
+HS,2015,201506,June 2015,6,1,1,Imports,417,Kyrgyzstan,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,6800,,8500,,,0
+HS,2015,201510,October 2015,6,1,1,Imports,417,Kyrgyzstan,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,142165,,156139,,,0
+HS,2015,201501,January 2015,6,1,2,Exports,604,Peru,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,24932,,15277,,,0
+HS,2015,201508,August 2015,6,1,1,Imports,124,Canada,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,43574,,99167,,,0
+HS,2015,201503,March 2015,6,1,1,Imports,68,Bolivia,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,5062,,1491,,,0
+HS,2015,201509,September 2015,6,1,1,Imports,586,Pakistan,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,16323,,18394,,,0
+HS,2015,201501,January 2015,6,1,1,Imports,68,Bolivia,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,404,,3425,,,0
+HS,2015,201508,August 2015,6,1,2,Exports,348,Hungary,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,174,,4998,,,0
+HS,2015,201501,January 2015,6,1,1,Imports,246,Finland,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,2980,,31393,,,0
+HS,2015,201503,March 2015,6,1,1,Imports,251,France,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,4036,,26899,,,0
+HS,2015,201501,January 2015,6,1,1,Imports,703,Slovakia,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,26907,,48930,,,0
+HS,2015,201512,December 2015,6,1,1,Imports,251,France,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,6070,,43257,,,0
+HS,2015,201504,April 2015,6,1,1,Imports,616,Poland,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,20,,219,,,0
+HS,2015,201510,October 2015,6,1,1,Imports,442,Luxembourg,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,20000,,42783,,,0
+HS,2015,201507,July 2015,6,1,1,Imports,372,Ireland,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,669,,3785,,,0
+HS,2015,201506,June 2015,6,1,2,Exports,372,Ireland,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,1383,,2582,,,0
+HS,2015,201512,December 2015,6,1,2,Exports,251,France,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,584414,,754975,,,0
+HS,2015,201505,May 2015,6,1,2,Exports,757,Switzerland,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,3975,,10339,,,0
+HS,2015,201512,December 2015,6,1,1,Imports,757,Switzerland,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,66,,166,,,0
+HS,2015,201512,December 2015,6,1,1,Imports,442,Luxembourg,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,20000,,42050,,,0
+HS,2015,201512,December 2015,6,1,2,Exports,616,Poland,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,4943,,10494,,,0
+HS,2015,201503,March 2015,6,1,2,Exports,251,France,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,463590,,697844,,,0
+HS,2015,201506,June 2015,6,1,1,Imports,442,Luxembourg,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,30000,,64955,,,0
+HS,2015,201507,July 2015,6,1,2,Exports,616,Poland,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,6492,,15617,,,0
+HS,2015,201504,April 2015,6,1,1,Imports,442,Luxembourg,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,40000,,84168,,,0
+HS,2015,201502,February 2015,6,1,1,Imports,703,Slovakia,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,50172,,79870,,,0
+HS,2015,201504,April 2015,6,1,1,Imports,372,Ireland,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,1858,,48570,,,0
+HS,2015,201501,January 2015,6,1,2,Exports,616,Poland,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,325,,581,,,0
+HS,2015,201503,March 2015,6,1,1,Imports,757,Switzerland,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,397,,3065,,,0
+HS,2015,201510,October 2015,6,1,1,Imports,703,Slovakia,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,130731,,227489,,,0
+HS,2015,201503,March 2015,6,1,2,Exports,703,Slovakia,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,116000,,145491,,,0
+HS,2015,201502,February 2015,6,1,1,Imports,616,Poland,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,50,,757,,,0
+HS,2015,201507,July 2015,6,1,1,Imports,703,Slovakia,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,72261,,97276,,,0
+HS,2015,201505,May 2015,6,1,1,Imports,372,Ireland,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,176,,1968,,,0
+HS,2015,201508,August 2015,6,1,1,Imports,372,Ireland,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,1233,,3557,,,0
+HS,2015,201509,September 2015,6,1,1,Imports,251,France,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,1756,,17589,,,0
+HS,2015,201501,January 2015,6,1,1,Imports,442,Luxembourg,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,21998,,52690,,,0
+HS,2015,201510,October 2015,6,1,1,Imports,251,France,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,,,6707,,,0
+HS,2015,201504,April 2015,6,1,2,Exports,757,Switzerland,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,4349,,13438,,,0
+HS,2015,201508,August 2015,6,1,2,Exports,251,France,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,276500,,399433,,,0
+HS,2015,201508,August 2015,6,1,2,Exports,703,Slovakia,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,42500,,68448,,,0
+HS,2015,201507,July 2015,6,1,1,Imports,757,Switzerland,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,,,1,,,0
+HS,2015,201511,November 2015,6,1,2,Exports,251,France,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,286452,,460957,,,0
+HS,2015,201505,May 2015,6,1,2,Exports,616,Poland,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,5145,,11040,,,0
+HS,2015,201510,October 2015,6,1,2,Exports,616,Poland,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,5546,,18195,,,0
+HS,2015,201501,January 2015,6,1,2,Exports,757,Switzerland,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,1449,,7685,,,0
+HS,2015,201504,April 2015,6,1,1,Imports,643,Russian Federation,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,52513,,60972,,,0
+HS,2015,201501,January 2015,6,1,1,Imports,792,Turkey,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,14500,,25192,,,0
+HS,2015,201511,November 2015,6,1,2,Exports,97,EU-27,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,4902495,,8452675,,,0
+HS,2015,201509,September 2015,6,1,1,Imports,381,Italy,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,18210,,56365,,,0
+HS,2015,201501,January 2015,6,1,2,Exports,97,EU-27,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,6423800,,11455436,,,0
+HS,2015,201502,February 2015,6,1,1,Imports,97,EU-27,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,,,214163,,,0
+HS,2015,201511,November 2015,6,1,1,Imports,484,Mexico,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,165819,,285216,,,0
+HS,2015,201504,April 2015,6,1,2,Exports,643,Russian Federation,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,24680,,5958,,,0
+HS,2015,201510,October 2015,6,1,2,Exports,381,Italy,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,138500,,237335,,,0
+HS,2015,201507,July 2015,6,1,1,Imports,40,Austria,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,200,,759,,,0
+HS,2015,201502,February 2015,6,1,2,Exports,40,Austria,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,219900,,345562,,,0
+HS,2015,201504,April 2015,6,1,1,Imports,97,EU-27,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,,,429737,,,0
+HS,2015,201509,September 2015,6,1,2,Exports,484,Mexico,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,640,,2137,,,0
+HS,2015,201507,July 2015,6,1,2,Exports,792,Turkey,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,90375,,117311,,,0
+HS,2015,201509,September 2015,6,1,2,Exports,40,Austria,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,160400,,234822,,,0
+HS,2015,201512,December 2015,6,1,1,Imports,643,Russian Federation,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,48396,,57372,,,0
+HS,2015,201504,April 2015,6,1,2,Exports,97,EU-27,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,6628000,,12059405,,,0
+HS,2015,201510,October 2015,6,1,1,Imports,792,Turkey,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,53900,,97484,,,0
+HS,2015,201511,November 2015,6,1,2,Exports,40,Austria,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,90374,,115853,,,0
+HS,2015,201502,February 2015,6,1,2,Exports,643,Russian Federation,,156,China,,,,,,,,,390210,"Propylene, other olefin polymers; polypropylene in primary forms",0,,,,,,23940,,5267,,,0
