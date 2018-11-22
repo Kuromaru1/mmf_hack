@@ -32,14 +32,14 @@ class PPPredictor:
         model.add(Dropout(0.2))
         model.add(Dense(output_dim=1))
         model.add(Activation('linear'))
-        model.compile(loss='mse', optimizer='rmsprop')
+        model.compile(loss='mape', optimizer='rmsprop')
         return model
 
     def __build_embedding(self, df_shape):
-        max_features = 20000
+        max_features = 50000
 
-        main_input = Input(shape=(80,), dtype='int32', name='main_input')
-        x = Embedding(output_dim=512, input_dim=max_features, input_length=80)(main_input)
+        main_input = Input(shape=(100,), dtype='int32', name='main_input')
+        x = Embedding(output_dim=512, input_dim=max_features, input_length=100)(main_input)
         lstm_out = LSTM(32)(x)
         auxiliary_output = Dense(1, activation='linear', name='aux_output')(lstm_out)
         auxiliary_input = Input(shape=(df_shape[1],), name='aux_input')
@@ -120,7 +120,7 @@ class PPPredictor:
             self.lstm_train_X = np.reshape(self.lstm_train_X, (self.lstm_train_X.shape[0], self.lstm_train_X.shape[2]))
             self.embedding_train_X = self.__get_embedding_train(news_df, prices_df['PPSpotAvgPrice'])
             self.embedding.fit([self.embedding_train_X, self.lstm_train_X], [self.train_y, self.train_y], batch_size=32,
-                               epochs=50)
+                               epochs=100)
             return self.embedding
 
     def predict(self, date):
