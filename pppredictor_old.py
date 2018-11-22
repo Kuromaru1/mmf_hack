@@ -2,12 +2,11 @@ import pandas as pd
 import numpy as np
 from datetime import timedelta
 
-from keras import Input, Model
 from keras.preprocessing.sequence import pad_sequences
 from keras_preprocessing.text import Tokenizer
 from sklearn.preprocessing import MinMaxScaler
 from keras.models import Sequential
-from keras.layers import LSTM, Dense, Dropout, Activation, Embedding, concatenate
+from keras.layers import LSTM, Dense, Dropout, Activation, Embedding
 
 
 class PPPredictor:
@@ -35,22 +34,14 @@ class PPPredictor:
         model.compile(loss='mse', optimizer='rmsprop')
         return model
 
-    def __build_embedding(self, df_shape):
+    def __build_embedding(self):
         max_features = 20000
 
-        main_input = Input(shape=(80,), dtype='int32', name='main_input')
-        x = Embedding(output_dim=512, input_dim=max_features, input_length=80)(main_input)
-        lstm_out = LSTM(32)(x)
-        auxiliary_output = Dense(1, activation='linear', name='aux_output')(lstm_out)
-        auxiliary_input = Input(shape=(df_shape[1],), name='aux_input')
-        x = concatenate([lstm_out, auxiliary_input])
-        x = Dense(64, activation='linear')(x)
-        x = Dense(64, activation='linear')(x)
-        x = Dense(64, activation='linear')(x)
-        main_output = Dense(1, activation='linear', name='main_output')(x)
-        model = Model(inputs=[main_input, auxiliary_input], outputs=[main_output, auxiliary_output])
-        model.compile(optimizer='rmsprop', loss='mse')
-
+        model = Sequential()
+        model.add(Embedding(max_features, 128))
+        model.add(LSTM(128, dropout=0.2, recurrent_dropout=0.2))
+        model.add(Dense(1, activation='linear'))
+        model.compile(loss='mse', optimizer='adam')
         return model
 
     def __get_lstm_train(self, df):
@@ -106,33 +97,26 @@ class PPPredictor:
         return prices_df, phrases_df, news_df
 
     def fit(self, prepared_data, use_text_model=False):
-        self.predict_with_embeddings = use_text_model
         prices_df, phrases_df, news_df = prepared_data
 
-        if not use_text_model:
-            self.lstm = self.__build_lstm(prices_df.shape)
-            self.lstm_train_X, self.train_y = self.__get_lstm_train(prices_df)
-            self.lstm.fit(self.lstm_train_X, self.train_y, batch_size=128, nb_epoch=10)
-            return self.lstm
-        else:
-            self.embedding = self.__build_embedding(prices_df.shape)
-            self.lstm_train_X, self.train_y = self.__get_lstm_train(prices_df)
-            self.lstm_train_X = np.reshape(self.lstm_train_X, (self.lstm_train_X.shape[0], self.lstm_train_X.shape[2]))
+        self.lstm = self.__build_lstm(prices_df.shape)
+        self.lstm_train_X, self.train_y = self.__get_lstm_train(prices_df)
+        # self.lstm.fit(self.lstm_train_X, self.train_y, batch_size=128, nb_epoch=10)
+
+        if use_text_model:
+            self.embedding = self.__build_embedding()
             self.embedding_train_X = self.__get_embedding_train(news_df, prices_df['PPSpotAvgPrice'])
-            self.embedding.fit([self.embedding_train_X, self.lstm_train_X], [self.train_y, self.train_y], batch_size=32,
-                               epochs=50)
-            return self.embedding
+            self.embedding.fit(self.embedding_train_X, self.train_y, batch_size=32, epochs=15)
+        self.predict_with_embeddings = use_text_model
+
+        return self.lstm
 
     def predict(self, date):
-        if not self.predict_with_embeddings:
-            test_X = self.lstm_train_X[-1]
-            test_X = np.reshape(test_X, (1, 1, test_X.shape[1]))
-            forecast = self.lstm.predict(test_X)
-            return self.scaler_y.inverse_transform(forecast)[0][0]
-        else:
-            embd_test_X = self.embedding_train_X[-1]
-            lstm_test_X = self.lstm_train_X[-1]
-            embd_test_X = np.reshape(embd_test_X, (1, embd_test_X.shape[0]))
-            lstm_test_X = np.reshape(lstm_test_X, (1, lstm_test_X.shape[0]))
-            forecast = self.embedding.predict({'main_input': embd_test_X, 'aux_input': lstm_test_X})[1]
-            return self.scaler_y.inverse_transform(forecast)[0][0]
+        # test_X = self.lstm_train_X[-1]
+        # test_X = np.reshape(test_X, (1, 1, test_X.shape[1]))
+        # forecast = self.lstm.predict(test_X)
+        # return self.scaler_y.inverse_transform(forecast)[0][0]
+
+        test_X = self.embedding_train_X[-1]
+        forecast = self.embedding.predict(test_X)
+        return self.scaler_y.inverse_transform(forecast)[0][0]
