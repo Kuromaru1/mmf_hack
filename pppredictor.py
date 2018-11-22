@@ -86,7 +86,7 @@ class PPPredictor:
         # word_index = tokenizer.word_index
         # print('Found %s unique tokens.' % len(word_index))
 
-        train_X = pad_sequences(sequences, maxlen=80)
+        train_X = pad_sequences(sequences, maxlen=100)
         return train_X
 
     def prepare_data(self, data, actual_date):
