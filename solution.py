@@ -44,7 +44,7 @@ if __name__ == '__main__':
     logger = get_logger(__name__, 'better_logs.txt')
 
     start_date = '2015-12-01'
-    end_date = '2018-07-01'
+    end_date = '2016-06-30'
 
     prices_df = pd.read_csv('data/retrieved_data.csv', index_col='Date')
     phrases_df = pd.read_csv('data/proposed_phrases.csv')
