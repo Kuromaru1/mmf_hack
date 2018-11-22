@@ -48,7 +48,7 @@ if __name__ == '__main__':
 
     prices_df = pd.read_csv('data/retrieved_data.csv', index_col='Date')
     phrases_df = pd.read_csv('data/proposed_phrases.csv')
-    news_df = pd.read_csv('data/retrieved_articles_oil.csv', index_col='Date')
+    news_df = pd.read_csv('data/proposed_sites.csv', index_col='Date')
 
     scores = []
 
